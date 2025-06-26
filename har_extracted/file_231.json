@@ -1,0 +1,4805 @@
+{
+   "data": [
+      {
+         "id": "ZNXvUJ3PpDwaP4WS03kc",
+         "ownerId": "HnsiyBZHrEcA6xPpph8d",
+         "ownerType": "project",
+         "createdAt": "2023-09-13T12:47:55.59638Z",
+         "updatedAt": "2023-09-19T16:05:15.710753Z",
+         "type": "canvasComponent",
+         "deletedAt": null,
+         "description": null,
+         "localId": "canvasComponent/dBfNc6p5p",
+         "saveId": "R0GrgkFDkfD4e5oBV46C",
+         "userId": "37b5379e-8528-4d58-b64d-2992f7419ca4",
+         "savedAt": "2023-09-19T16:05:15.710753Z",
+         "files": {
+            "module": "dBfNc6p5p.js",
+            "nodeTree": "tree.json",
+            "source": "dBfNc6p5p.tsx",
+            "sourceMap": "dBfNc6p5p.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 64,
+            "intrinsicWidth": 1200,
+            "packageDependencies": []
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "dBfNc6p5p",
+         "title": "Navigation",
+         "baseURL": "https://framerusercontent.com/modules/ZNXvUJ3PpDwaP4WS03kc/R0GrgkFDkfD4e5oBV46C/",
+         "importURL": "https://framer.com/m/Navigation-8h1f.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "Topbar",
+            "version": "1.0.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/Topbar.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "R0GrgkFDkfD4e5oBV46C"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "react/jsx-runtime",
+               "framer-motion",
+               "framer",
+               "react"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "7s114YOJ3Nj2RiyIHHaC",
+         "ownerId": "HnsiyBZHrEcA6xPpph8d",
+         "ownerType": "project",
+         "createdAt": "2023-09-19T11:53:53.634794Z",
+         "updatedAt": "2023-10-20T09:05:13.6516Z",
+         "type": "canvasComponent",
+         "deletedAt": null,
+         "description": null,
+         "localId": "canvasComponent/Pmk0iz2oT",
+         "saveId": "zsB8VuK6Q321zYw1MwMb",
+         "userId": "37b5379e-8528-4d58-b64d-2992f7419ca4",
+         "savedAt": "2023-10-20T09:03:58.284844Z",
+         "files": {
+            "module": "Pmk0iz2oT.js",
+            "nodeTree": "tree.json",
+            "source": "Pmk0iz2oT.tsx",
+            "sourceMap": "Pmk0iz2oT.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 64,
+            "intrinsicWidth": 1200,
+            "packageDependencies": []
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Pmk0iz2oT",
+         "title": "Navigation",
+         "baseURL": "https://framerusercontent.com/modules/7s114YOJ3Nj2RiyIHHaC/zsB8VuK6Q321zYw1MwMb/",
+         "importURL": "https://framer.com/m/Navigation-Au2n.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "TopbarDropdown",
+            "version": "1.10.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/TopbarDropdown.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "zsB8VuK6Q321zYw1MwMb"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "framer-motion",
+               "react/jsx-runtime",
+               "framer",
+               "react"
+            ],
+            "relative": [
+               "./jjuFZlrlF",
+               "./dQcuWx460",
+               "./Vh4Yb6ijq",
+               "./pPmogNY6m"
+            ]
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "x9KsuHg7ytzSxT6EdNz5",
+         "ownerId": "HnsiyBZHrEcA6xPpph8d",
+         "ownerType": "project",
+         "createdAt": "2023-09-15T11:55:49.409038Z",
+         "updatedAt": "2023-09-19T16:06:12.056794Z",
+         "type": "canvasComponent",
+         "deletedAt": null,
+         "description": null,
+         "localId": "canvasComponent/DhmgPyWs2",
+         "saveId": "2iKK4FPc4xRX48gtPhJn",
+         "userId": "37b5379e-8528-4d58-b64d-2992f7419ca4",
+         "savedAt": "2023-09-19T16:06:12.056794Z",
+         "files": {
+            "module": "DhmgPyWs2.js",
+            "nodeTree": "tree.json",
+            "source": "DhmgPyWs2.tsx",
+            "sourceMap": "DhmgPyWs2.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 128,
+            "intrinsicWidth": 1200,
+            "packageDependencies": []
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "DhmgPyWs2",
+         "title": "Navigation",
+         "baseURL": "https://framerusercontent.com/modules/x9KsuHg7ytzSxT6EdNz5/2iKK4FPc4xRX48gtPhJn/",
+         "importURL": "https://framer.com/m/Navigation-yNPH.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "SideScroll",
+            "version": "1.0.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/SideScroll.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "2iKK4FPc4xRX48gtPhJn"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "framer",
+               "framer-motion",
+               "react/jsx-runtime",
+               "react"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "82rcZPGyQGREplEnjBjF",
+         "ownerId": "HnsiyBZHrEcA6xPpph8d",
+         "ownerType": "project",
+         "createdAt": "2023-09-14T15:13:51.520735Z",
+         "updatedAt": "2023-09-19T16:05:22.194278Z",
+         "type": "canvasComponent",
+         "deletedAt": null,
+         "description": null,
+         "localId": "canvasComponent/BWqp2iWae",
+         "saveId": "HMmSnby2HZ2fGf99vNR0",
+         "userId": "37b5379e-8528-4d58-b64d-2992f7419ca4",
+         "savedAt": "2023-09-19T16:05:22.194278Z",
+         "files": {
+            "module": "BWqp2iWae.js",
+            "nodeTree": "tree.json",
+            "source": "BWqp2iWae.tsx",
+            "sourceMap": "BWqp2iWae.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 64,
+            "intrinsicWidth": 1200,
+            "packageDependencies": []
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "BWqp2iWae",
+         "title": "Navigation",
+         "baseURL": "https://framerusercontent.com/modules/82rcZPGyQGREplEnjBjF/HMmSnby2HZ2fGf99vNR0/",
+         "importURL": "https://framer.com/m/Navigation-9oFO.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "TopbarDark",
+            "version": "1.0.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/TopbarDark.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "HMmSnby2HZ2fGf99vNR0"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "framer",
+               "react/jsx-runtime",
+               "react",
+               "framer-motion"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "JcBmCDnzIeOBw1ypOorS",
+         "ownerId": "HnsiyBZHrEcA6xPpph8d",
+         "ownerType": "project",
+         "createdAt": "2023-09-19T11:53:42.620613Z",
+         "updatedAt": "2023-10-31T15:52:43.019438Z",
+         "type": "canvasComponent",
+         "deletedAt": null,
+         "description": null,
+         "localId": "canvasComponent/tyiIooIlf",
+         "saveId": "3BGBA330Eor1jne90rC9",
+         "userId": "37b5379e-8528-4d58-b64d-2992f7419ca4",
+         "savedAt": "2023-10-20T08:23:09.270785Z",
+         "files": {
+            "module": "tyiIooIlf.js",
+            "nodeTree": "tree.json",
+            "source": "tyiIooIlf.tsx",
+            "sourceMap": "tyiIooIlf.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 64,
+            "intrinsicWidth": 1200,
+            "packageDependencies": []
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "tyiIooIlf",
+         "title": "Navigation",
+         "baseURL": "https://framerusercontent.com/modules/JcBmCDnzIeOBw1ypOorS/3BGBA330Eor1jne90rC9/",
+         "importURL": "https://framer.com/m/Navigation-ahcY.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "TopbarDropdownDark",
+            "version": "1.10.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/TopbarDropdownDark.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "3BGBA330Eor1jne90rC9"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "react/jsx-runtime",
+               "framer",
+               "react",
+               "framer-motion"
+            ],
+            "relative": [
+               "./ikKSWTazI",
+               "./orl2iMVTq",
+               "./agH2PFLXa",
+               "./TMwU90V6K"
+            ]
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "cMrybxbOpf7L136F5zJf",
+         "ownerId": "HnsiyBZHrEcA6xPpph8d",
+         "ownerType": "project",
+         "createdAt": "2023-09-15T11:56:06.673494Z",
+         "updatedAt": "2023-09-19T16:06:16.354656Z",
+         "type": "canvasComponent",
+         "deletedAt": null,
+         "description": null,
+         "localId": "canvasComponent/x_nqxNvm3",
+         "saveId": "wpLuSGRMtYYwrhDjg6WA",
+         "userId": "37b5379e-8528-4d58-b64d-2992f7419ca4",
+         "savedAt": "2023-09-19T16:06:16.354656Z",
+         "files": {
+            "module": "x_nqxNvm3.js",
+            "nodeTree": "tree.json",
+            "source": "x_nqxNvm3.tsx",
+            "sourceMap": "x_nqxNvm3.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 128,
+            "intrinsicWidth": 1200,
+            "packageDependencies": []
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "x_nqxNvm3",
+         "title": "Navigation",
+         "baseURL": "https://framerusercontent.com/modules/cMrybxbOpf7L136F5zJf/wpLuSGRMtYYwrhDjg6WA/",
+         "importURL": "https://framer.com/m/Navigation-Eevj.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "SideScrollDark",
+            "version": "1.0.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/SideScrollDark.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "wpLuSGRMtYYwrhDjg6WA"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "framer",
+               "react/jsx-runtime",
+               "framer-motion",
+               "react"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "fDIqFgRBGypXBx6CQoxB",
+         "ownerId": "yQI3DinhDZHbViSn9Zm3",
+         "ownerType": "project",
+         "createdAt": "2023-09-15T12:27:02.958547Z",
+         "updatedAt": "2023-10-04T14:25:01.084115Z",
+         "type": "canvasComponent",
+         "deletedAt": null,
+         "description": null,
+         "localId": "canvasComponent/tnoOxG14n",
+         "saveId": "TbrMtjzu7XL2bq3OXRCb",
+         "userId": "37b5379e-8528-4d58-b64d-2992f7419ca4",
+         "savedAt": "2023-10-04T14:25:01.084115Z",
+         "files": {
+            "module": "tnoOxG14n.js",
+            "nodeTree": "tree.json",
+            "source": "tnoOxG14n.tsx",
+            "sourceMap": "tnoOxG14n.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 107,
+            "intrinsicWidth": 150,
+            "packageDependencies": []
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "tnoOxG14n",
+         "title": "Menu",
+         "baseURL": "https://framerusercontent.com/modules/fDIqFgRBGypXBx6CQoxB/TbrMtjzu7XL2bq3OXRCb/",
+         "importURL": "https://framer.com/m/Menu-1zFaH.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "Menu",
+            "version": "0.5.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/Menu.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "0f84a602-bc20-402e-9750-c113236cd4f1",
+               "name": "Blitz",
+               "imageURL": null
+            },
+            "updateSaveId": "TbrMtjzu7XL2bq3OXRCb"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "framer",
+               "react/jsx-runtime",
+               "framer-motion",
+               "react"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "RYCmsDaESZirNWc10Dc0",
+         "ownerId": "yQI3DinhDZHbViSn9Zm3",
+         "ownerType": "project",
+         "createdAt": "2023-09-15T12:28:43.99668Z",
+         "updatedAt": "2023-10-05T08:06:55.691954Z",
+         "type": "canvasComponent",
+         "deletedAt": null,
+         "description": null,
+         "localId": "canvasComponent/yP0WZExR6",
+         "saveId": "7yDdrx7TXsf5k1tOP5SP",
+         "userId": "37b5379e-8528-4d58-b64d-2992f7419ca4",
+         "savedAt": "2023-10-05T08:06:55.691954Z",
+         "files": {
+            "module": "yP0WZExR6.js",
+            "nodeTree": "tree.json",
+            "source": "yP0WZExR6.tsx",
+            "sourceMap": "yP0WZExR6.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 112,
+            "intrinsicWidth": 150,
+            "packageDependencies": []
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "yP0WZExR6",
+         "title": "Menu",
+         "baseURL": "https://framerusercontent.com/modules/RYCmsDaESZirNWc10Dc0/7yDdrx7TXsf5k1tOP5SP/",
+         "importURL": "https://framer.com/m/Menu-DsTA.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "MenuIcons",
+            "version": "0.5.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/MenuIcons.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "0f84a602-bc20-402e-9750-c113236cd4f1",
+               "name": "Blitz",
+               "imageURL": null
+            },
+            "updateSaveId": "7yDdrx7TXsf5k1tOP5SP"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "framer",
+               "framer-motion",
+               "react",
+               "react/jsx-runtime"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "tROYyxAkF45mj6TR3ykC",
+         "ownerId": "yQI3DinhDZHbViSn9Zm3",
+         "ownerType": "project",
+         "createdAt": "2023-09-15T12:32:49.67003Z",
+         "updatedAt": "2023-10-05T08:07:00.409931Z",
+         "type": "canvasComponent",
+         "deletedAt": null,
+         "description": null,
+         "localId": "canvasComponent/ZmMzMnVqc",
+         "saveId": "joEdkGH0G4jRToZpGS14",
+         "userId": "37b5379e-8528-4d58-b64d-2992f7419ca4",
+         "savedAt": "2023-10-05T08:07:00.409931Z",
+         "files": {
+            "module": "ZmMzMnVqc.js",
+            "nodeTree": "tree.json",
+            "source": "ZmMzMnVqc.tsx",
+            "sourceMap": "ZmMzMnVqc.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 160,
+            "intrinsicWidth": 200,
+            "packageDependencies": []
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "ZmMzMnVqc",
+         "title": "Menu",
+         "baseURL": "https://framerusercontent.com/modules/tROYyxAkF45mj6TR3ykC/joEdkGH0G4jRToZpGS14/",
+         "importURL": "https://framer.com/m/Menu-DevI.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "MenuRows",
+            "version": "0.6.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/MenuRows.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "0f84a602-bc20-402e-9750-c113236cd4f1",
+               "name": "Blitz",
+               "imageURL": null
+            },
+            "updateSaveId": "joEdkGH0G4jRToZpGS14"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "framer-motion",
+               "react/jsx-runtime",
+               "framer",
+               "react"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "YUBlJXiP3Bx49xgNrsQW",
+         "ownerId": "yQI3DinhDZHbViSn9Zm3",
+         "ownerType": "project",
+         "createdAt": "2023-09-15T12:35:00.392304Z",
+         "updatedAt": "2023-10-05T08:07:04.868783Z",
+         "type": "canvasComponent",
+         "deletedAt": null,
+         "description": null,
+         "localId": "canvasComponent/jLkuee9TP",
+         "saveId": "p9El04q9HskM4lkbL83X",
+         "userId": "37b5379e-8528-4d58-b64d-2992f7419ca4",
+         "savedAt": "2023-10-05T08:07:04.868783Z",
+         "files": {
+            "module": "jLkuee9TP.js",
+            "nodeTree": "tree.json",
+            "source": "jLkuee9TP.tsx",
+            "sourceMap": "jLkuee9TP.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 201,
+            "intrinsicWidth": 300,
+            "packageDependencies": []
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "jLkuee9TP",
+         "title": "Menu",
+         "baseURL": "https://framerusercontent.com/modules/YUBlJXiP3Bx49xgNrsQW/p9El04q9HskM4lkbL83X/",
+         "importURL": "https://framer.com/m/Menu-Z9sy.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "MenuSubline",
+            "version": "0.6.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/MenuSubline.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "0f84a602-bc20-402e-9750-c113236cd4f1",
+               "name": "Blitz",
+               "imageURL": null
+            },
+            "updateSaveId": "p9El04q9HskM4lkbL83X"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "framer",
+               "react",
+               "react/jsx-runtime",
+               "framer-motion"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "t8qwT4YgZxQFFEPoR0ne",
+         "ownerId": "yQI3DinhDZHbViSn9Zm3",
+         "ownerType": "project",
+         "createdAt": "2023-09-15T12:37:12.115702Z",
+         "updatedAt": "2023-10-05T08:07:09.691192Z",
+         "type": "canvasComponent",
+         "deletedAt": null,
+         "description": null,
+         "localId": "canvasComponent/TXI3ux34G",
+         "saveId": "kcfhouRWrkxLxJSIlvcZ",
+         "userId": "37b5379e-8528-4d58-b64d-2992f7419ca4",
+         "savedAt": "2023-10-05T08:07:09.691192Z",
+         "files": {
+            "module": "TXI3ux34G.js",
+            "nodeTree": "tree.json",
+            "source": "TXI3ux34G.tsx",
+            "sourceMap": "TXI3ux34G.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 201,
+            "intrinsicWidth": 300,
+            "packageDependencies": []
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "TXI3ux34G",
+         "title": "Menu",
+         "baseURL": "https://framerusercontent.com/modules/t8qwT4YgZxQFFEPoR0ne/kcfhouRWrkxLxJSIlvcZ/",
+         "importURL": "https://framer.com/m/Menu-BLq9.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "MenuMixed",
+            "version": "0.4.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/MenuMixed.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "0f84a602-bc20-402e-9750-c113236cd4f1",
+               "name": "Blitz",
+               "imageURL": null
+            },
+            "updateSaveId": "kcfhouRWrkxLxJSIlvcZ"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "framer",
+               "react/jsx-runtime",
+               "framer-motion",
+               "react"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "aZXRHgdtdYnwl6KHloxA",
+         "ownerId": "yQI3DinhDZHbViSn9Zm3",
+         "ownerType": "project",
+         "createdAt": "2023-09-15T12:39:00.259482Z",
+         "updatedAt": "2023-10-05T08:07:15.170984Z",
+         "type": "canvasComponent",
+         "deletedAt": null,
+         "description": null,
+         "localId": "canvasComponent/bD9RNnQe1",
+         "saveId": "ZUqamIjNkucoMx43CbOt",
+         "userId": "37b5379e-8528-4d58-b64d-2992f7419ca4",
+         "savedAt": "2023-10-05T08:07:15.170984Z",
+         "files": {
+            "module": "bD9RNnQe1.js",
+            "nodeTree": "tree.json",
+            "source": "bD9RNnQe1.tsx",
+            "sourceMap": "bD9RNnQe1.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 256,
+            "intrinsicWidth": 600,
+            "packageDependencies": []
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "bD9RNnQe1",
+         "title": "Menu",
+         "baseURL": "https://framerusercontent.com/modules/aZXRHgdtdYnwl6KHloxA/ZUqamIjNkucoMx43CbOt/",
+         "importURL": "https://framer.com/m/Menu-7htY.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "MenuSplit",
+            "version": "0.4.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/MenuSplit.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "0f84a602-bc20-402e-9750-c113236cd4f1",
+               "name": "Blitz",
+               "imageURL": null
+            },
+            "updateSaveId": "ZUqamIjNkucoMx43CbOt"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "react",
+               "framer",
+               "framer-motion",
+               "react/jsx-runtime"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "DUOQmYtInSHb4fyzvB8O",
+         "ownerId": "yQI3DinhDZHbViSn9Zm3",
+         "ownerType": "project",
+         "createdAt": "2023-09-15T12:28:13.48767Z",
+         "updatedAt": "2023-10-16T09:22:37.2661Z",
+         "type": "canvasComponent",
+         "deletedAt": null,
+         "description": null,
+         "localId": "canvasComponent/SiIKADyO2",
+         "saveId": "XsnhfGunfc6jntIEwANS",
+         "userId": "37b5379e-8528-4d58-b64d-2992f7419ca4",
+         "savedAt": "2023-10-04T14:25:01.447184Z",
+         "files": {
+            "module": "SiIKADyO2.js",
+            "nodeTree": "tree.json",
+            "source": "SiIKADyO2.tsx",
+            "sourceMap": "SiIKADyO2.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 107,
+            "intrinsicWidth": 150,
+            "packageDependencies": []
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "SiIKADyO2",
+         "title": "Menu Dark",
+         "baseURL": "https://framerusercontent.com/modules/DUOQmYtInSHb4fyzvB8O/XsnhfGunfc6jntIEwANS/",
+         "importURL": "https://framer.com/m/Menu-Dark-mUVm.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "MenuDark",
+            "version": "0.8.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/MenuDark.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "0f84a602-bc20-402e-9750-c113236cd4f1",
+               "name": "Blitz",
+               "imageURL": null
+            },
+            "updateSaveId": "XsnhfGunfc6jntIEwANS"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "react",
+               "framer-motion",
+               "react/jsx-runtime",
+               "framer"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "YtaOo6O0Y5QJIKxnIJOX",
+         "ownerId": "yQI3DinhDZHbViSn9Zm3",
+         "ownerType": "project",
+         "createdAt": "2023-09-15T12:31:49.348715Z",
+         "updatedAt": "2023-10-05T08:06:22.489893Z",
+         "type": "canvasComponent",
+         "deletedAt": null,
+         "description": null,
+         "localId": "canvasComponent/UUXLuV2rY",
+         "saveId": "TGN6zs7eSR7DlUXct8jf",
+         "userId": "37b5379e-8528-4d58-b64d-2992f7419ca4",
+         "savedAt": "2023-10-05T08:06:22.489893Z",
+         "files": {
+            "module": "UUXLuV2rY.js",
+            "nodeTree": "tree.json",
+            "source": "UUXLuV2rY.tsx",
+            "sourceMap": "UUXLuV2rY.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 110,
+            "intrinsicWidth": 150,
+            "packageDependencies": []
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "UUXLuV2rY",
+         "title": "Menu",
+         "baseURL": "https://framerusercontent.com/modules/YtaOo6O0Y5QJIKxnIJOX/TGN6zs7eSR7DlUXct8jf/",
+         "importURL": "https://framer.com/m/Menu-dVKQ.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "MenuIconsDark",
+            "version": "0.5.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/MenuIconsDark.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "0f84a602-bc20-402e-9750-c113236cd4f1",
+               "name": "Blitz",
+               "imageURL": null
+            },
+            "updateSaveId": "TGN6zs7eSR7DlUXct8jf"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "framer",
+               "react",
+               "framer-motion",
+               "react/jsx-runtime"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "VbIorVW5Ddo9n4b7lc30",
+         "ownerId": "yQI3DinhDZHbViSn9Zm3",
+         "ownerType": "project",
+         "createdAt": "2023-09-15T12:34:29.046448Z",
+         "updatedAt": "2023-10-17T15:48:40.985721Z",
+         "type": "canvasComponent",
+         "deletedAt": null,
+         "description": null,
+         "localId": "canvasComponent/AKcLNUudv",
+         "saveId": "GCUZa24Yw70JYQNiGYGx",
+         "userId": "37b5379e-8528-4d58-b64d-2992f7419ca4",
+         "savedAt": "2023-10-05T08:06:27.93803Z",
+         "files": {
+            "module": "AKcLNUudv.js",
+            "nodeTree": "tree.json",
+            "source": "AKcLNUudv.tsx",
+            "sourceMap": "AKcLNUudv.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 160,
+            "intrinsicWidth": 200,
+            "packageDependencies": []
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "AKcLNUudv",
+         "title": "Menu",
+         "baseURL": "https://framerusercontent.com/modules/VbIorVW5Ddo9n4b7lc30/GCUZa24Yw70JYQNiGYGx/",
+         "importURL": "https://framer.com/m/Menu-24A5.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "MenuRowsDark",
+            "version": "0.5.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/MenuRowsDark.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "0f84a602-bc20-402e-9750-c113236cd4f1",
+               "name": "Blitz",
+               "imageURL": null
+            },
+            "updateSaveId": "GCUZa24Yw70JYQNiGYGx"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "react",
+               "framer-motion",
+               "react/jsx-runtime",
+               "framer"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "rMOH2EeYczldte9XMNd0",
+         "ownerId": "yQI3DinhDZHbViSn9Zm3",
+         "ownerType": "project",
+         "createdAt": "2023-09-15T12:35:51.339978Z",
+         "updatedAt": "2023-10-05T08:06:33.683989Z",
+         "type": "canvasComponent",
+         "deletedAt": null,
+         "description": null,
+         "localId": "canvasComponent/l19ctGZG_",
+         "saveId": "lffBmSl26M2EfXdNH4kW",
+         "userId": "37b5379e-8528-4d58-b64d-2992f7419ca4",
+         "savedAt": "2023-10-05T08:06:33.683989Z",
+         "files": {
+            "module": "l19ctGZG_.js",
+            "nodeTree": "tree.json",
+            "source": "l19ctGZG_.tsx",
+            "sourceMap": "l19ctGZG_.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 201,
+            "intrinsicWidth": 300,
+            "packageDependencies": []
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "l19ctGZG_",
+         "title": "Menu",
+         "baseURL": "https://framerusercontent.com/modules/rMOH2EeYczldte9XMNd0/lffBmSl26M2EfXdNH4kW/",
+         "importURL": "https://framer.com/m/Menu-bk4F.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "MenuSublineDark",
+            "version": "0.5.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/MenuSublineDark.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "0f84a602-bc20-402e-9750-c113236cd4f1",
+               "name": "Blitz",
+               "imageURL": null
+            },
+            "updateSaveId": "lffBmSl26M2EfXdNH4kW"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "framer",
+               "react/jsx-runtime",
+               "react",
+               "framer-motion"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "FMk4dOHob39dYUpwBUWF",
+         "ownerId": "yQI3DinhDZHbViSn9Zm3",
+         "ownerType": "project",
+         "createdAt": "2023-09-15T12:38:23.034175Z",
+         "updatedAt": "2023-10-05T08:06:39.281132Z",
+         "type": "canvasComponent",
+         "deletedAt": null,
+         "description": null,
+         "localId": "canvasComponent/bN6KF9_cV",
+         "saveId": "qrbASNQEAjGCr0M9nSTt",
+         "userId": "37b5379e-8528-4d58-b64d-2992f7419ca4",
+         "savedAt": "2023-10-05T08:06:39.281132Z",
+         "files": {
+            "module": "bN6KF9_cV.js",
+            "nodeTree": "tree.json",
+            "source": "bN6KF9_cV.tsx",
+            "sourceMap": "bN6KF9_cV.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 201,
+            "intrinsicWidth": 300,
+            "packageDependencies": []
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "bN6KF9_cV",
+         "title": "Menu",
+         "baseURL": "https://framerusercontent.com/modules/FMk4dOHob39dYUpwBUWF/qrbASNQEAjGCr0M9nSTt/",
+         "importURL": "https://framer.com/m/Menu-qPYQ.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "MenuMixedDark",
+            "version": "0.4.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/MenuMixedDark.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "0f84a602-bc20-402e-9750-c113236cd4f1",
+               "name": "Blitz",
+               "imageURL": null
+            },
+            "updateSaveId": "qrbASNQEAjGCr0M9nSTt"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "framer",
+               "react",
+               "framer-motion",
+               "react/jsx-runtime"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "3KR5FtMSsyy23J2CjSI9",
+         "ownerId": "yQI3DinhDZHbViSn9Zm3",
+         "ownerType": "project",
+         "createdAt": "2023-09-15T12:39:50.852253Z",
+         "updatedAt": "2023-10-05T08:06:43.9943Z",
+         "type": "canvasComponent",
+         "deletedAt": null,
+         "description": null,
+         "localId": "canvasComponent/smw6J1TVs",
+         "saveId": "ceUPE8mjcvpX7frC13Xl",
+         "userId": "37b5379e-8528-4d58-b64d-2992f7419ca4",
+         "savedAt": "2023-10-05T08:06:43.9943Z",
+         "files": {
+            "module": "smw6J1TVs.js",
+            "nodeTree": "tree.json",
+            "source": "smw6J1TVs.tsx",
+            "sourceMap": "smw6J1TVs.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 256,
+            "intrinsicWidth": 600,
+            "packageDependencies": []
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "smw6J1TVs",
+         "title": "Menu",
+         "baseURL": "https://framerusercontent.com/modules/3KR5FtMSsyy23J2CjSI9/ceUPE8mjcvpX7frC13Xl/",
+         "importURL": "https://framer.com/m/Menu-JqVA.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "MenuSplitDark",
+            "version": "0.3.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/MenuSplitDark.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "0f84a602-bc20-402e-9750-c113236cd4f1",
+               "name": "Blitz",
+               "imageURL": null
+            },
+            "updateSaveId": "ceUPE8mjcvpX7frC13Xl"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "react",
+               "react/jsx-runtime",
+               "framer",
+               "framer-motion"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "CtFWk0FfR3wRolzSJScG",
+         "ownerId": "HeQNUPePOfVkO8j1a1To",
+         "ownerType": "project",
+         "createdAt": "2025-04-28T12:00:56.511063Z",
+         "updatedAt": "2025-06-16T16:43:25.976405Z",
+         "type": "vector",
+         "deletedAt": null,
+         "description": null,
+         "localId": "vector/hZfMiaEeJ",
+         "saveId": "jFr40RIjV9mGUmllmPRR",
+         "userId": "71062f5e-883f-438a-a3b0-c60d0b8b38b4",
+         "savedAt": "2025-06-16T16:43:25.976405Z",
+         "files": {
+            "module": "hZfMiaEeJ.js",
+            "nodeTree": "tree.json",
+            "source": "hZfMiaEeJ.tsx",
+            "svgIcon": "icon.svg"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 24,
+            "intrinsicWidth": 24,
+            "localModuleImportMapEntries": false,
+            "sourceRevision": 3806506243,
+            "treeAnnotations": true
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "hZfMiaEeJ",
+         "title": "Emoji Happy",
+         "baseURL": "https://framerusercontent.com/modules/CtFWk0FfR3wRolzSJScG/jFr40RIjV9mGUmllmPRR/",
+         "importURL": "https://framer.com/m/Emoji-Happy-p2hS.js",
+         "lastPublish": null,
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "jFr40RIjV9mGUmllmPRR"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "framer",
+               "react/jsx-runtime",
+               "react"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "SUBEdtCFaOJwrjN2Inhk",
+         "ownerId": "HeQNUPePOfVkO8j1a1To",
+         "ownerType": "project",
+         "createdAt": "2025-06-04T12:49:08.041757Z",
+         "updatedAt": "2025-06-16T16:33:11.680441Z",
+         "type": "vector",
+         "deletedAt": null,
+         "description": null,
+         "localId": "vector/pKERsxd4H",
+         "saveId": "bznEUerLEqVVXGfsDOYE",
+         "userId": "71062f5e-883f-438a-a3b0-c60d0b8b38b4",
+         "savedAt": "2025-06-16T16:33:11.680441Z",
+         "files": {
+            "module": "pKERsxd4H.js",
+            "nodeTree": "tree.json",
+            "source": "pKERsxd4H.tsx",
+            "svgIcon": "icon.svg"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 24,
+            "intrinsicWidth": 24,
+            "localModuleImportMapEntries": false,
+            "sourceRevision": 3151112179,
+            "treeAnnotations": true
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "pKERsxd4H",
+         "title": "Shapes",
+         "baseURL": "https://framerusercontent.com/modules/SUBEdtCFaOJwrjN2Inhk/bznEUerLEqVVXGfsDOYE/",
+         "importURL": "https://framer.com/m/Shapes-KmGs.js",
+         "lastPublish": null,
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "bznEUerLEqVVXGfsDOYE"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "framer",
+               "react/jsx-runtime",
+               "react"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "1lUk1TfvZjRdlJsRNotP",
+         "ownerId": "HeQNUPePOfVkO8j1a1To",
+         "ownerType": "project",
+         "createdAt": "2025-04-28T09:01:31.153936Z",
+         "updatedAt": "2025-06-16T16:19:37.607053Z",
+         "type": "vector",
+         "deletedAt": null,
+         "description": null,
+         "localId": "vector/ch_nII7Pe",
+         "saveId": "lJ1jENdzoDPrUDxt7YZz",
+         "userId": "71062f5e-883f-438a-a3b0-c60d0b8b38b4",
+         "savedAt": "2025-06-16T16:19:37.607053Z",
+         "files": {
+            "module": "ch_nII7Pe.js",
+            "nodeTree": "tree.json",
+            "source": "ch_nII7Pe.tsx",
+            "svgIcon": "icon.svg"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 24,
+            "intrinsicWidth": 24,
+            "localModuleImportMapEntries": false,
+            "sourceRevision": 3368749321,
+            "treeAnnotations": true
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "ch_nII7Pe",
+         "title": "At Symbol",
+         "baseURL": "https://framerusercontent.com/modules/1lUk1TfvZjRdlJsRNotP/lJ1jENdzoDPrUDxt7YZz/",
+         "importURL": "https://framer.com/m/At-Symbol-dGjq.js",
+         "lastPublish": null,
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "lJ1jENdzoDPrUDxt7YZz"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "framer",
+               "react/jsx-runtime",
+               "react"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "407RSC1iN7xY9tZK0Q8x",
+         "ownerId": "HeQNUPePOfVkO8j1a1To",
+         "ownerType": "project",
+         "createdAt": "2025-04-28T08:54:01.126017Z",
+         "updatedAt": "2025-06-16T16:18:12.124783Z",
+         "type": "vector",
+         "deletedAt": null,
+         "description": null,
+         "localId": "vector/mAKyPWQFl",
+         "saveId": "uOxystmK67s4TBrM8cle",
+         "userId": "71062f5e-883f-438a-a3b0-c60d0b8b38b4",
+         "savedAt": "2025-06-16T16:18:12.124783Z",
+         "files": {
+            "module": "mAKyPWQFl.js",
+            "nodeTree": "tree.json",
+            "source": "mAKyPWQFl.tsx",
+            "svgIcon": "icon.svg"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 24,
+            "intrinsicWidth": 24,
+            "localModuleImportMapEntries": false,
+            "sourceRevision": 60702174,
+            "treeAnnotations": true
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "mAKyPWQFl",
+         "title": "Feather",
+         "baseURL": "https://framerusercontent.com/modules/407RSC1iN7xY9tZK0Q8x/uOxystmK67s4TBrM8cle/",
+         "importURL": "https://framer.com/m/Feather-gxDq.js",
+         "lastPublish": null,
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "uOxystmK67s4TBrM8cle"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "framer",
+               "react",
+               "react/jsx-runtime"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "PTZn3F6qMGq1gLpnYF73",
+         "ownerId": "HeQNUPePOfVkO8j1a1To",
+         "ownerType": "project",
+         "createdAt": "2025-04-28T09:24:42.789843Z",
+         "updatedAt": "2025-06-16T16:22:50.081532Z",
+         "type": "vector",
+         "deletedAt": null,
+         "description": null,
+         "localId": "vector/tMBpPBLJ8",
+         "saveId": "kXohQqjft4vwxHI4d595",
+         "userId": "71062f5e-883f-438a-a3b0-c60d0b8b38b4",
+         "savedAt": "2025-06-16T16:22:50.081532Z",
+         "files": {
+            "module": "tMBpPBLJ8.js",
+            "nodeTree": "tree.json",
+            "source": "tMBpPBLJ8.tsx",
+            "svgIcon": "icon.svg"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 24,
+            "intrinsicWidth": 24,
+            "localModuleImportMapEntries": false,
+            "sourceRevision": 940749453,
+            "treeAnnotations": true
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "tMBpPBLJ8",
+         "title": "Globe",
+         "baseURL": "https://framerusercontent.com/modules/PTZn3F6qMGq1gLpnYF73/kXohQqjft4vwxHI4d595/",
+         "importURL": "https://framer.com/m/Globe-dcHH.js",
+         "lastPublish": null,
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "kXohQqjft4vwxHI4d595"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "framer",
+               "react",
+               "react/jsx-runtime"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "bOUoSNqXFQmwloaOl82C",
+         "ownerId": "HeQNUPePOfVkO8j1a1To",
+         "ownerType": "project",
+         "createdAt": "2025-04-28T11:44:58.979669Z",
+         "updatedAt": "2025-06-16T16:39:57.126969Z",
+         "type": "vector",
+         "deletedAt": null,
+         "description": null,
+         "localId": "vector/UrtoEbpy0",
+         "saveId": "9FFxpf8Hoxpy4WgOwfEA",
+         "userId": "71062f5e-883f-438a-a3b0-c60d0b8b38b4",
+         "savedAt": "2025-06-16T16:39:57.126969Z",
+         "files": {
+            "module": "UrtoEbpy0.js",
+            "nodeTree": "tree.json",
+            "source": "UrtoEbpy0.tsx",
+            "svgIcon": "icon.svg"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 24,
+            "intrinsicWidth": 24,
+            "localModuleImportMapEntries": false,
+            "sourceRevision": 2168893097,
+            "treeAnnotations": true
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "UrtoEbpy0",
+         "title": "Offline Bolt",
+         "baseURL": "https://framerusercontent.com/modules/bOUoSNqXFQmwloaOl82C/9FFxpf8Hoxpy4WgOwfEA/",
+         "importURL": "https://framer.com/m/Offline-Bolt-VC4X.js",
+         "lastPublish": null,
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "9FFxpf8Hoxpy4WgOwfEA"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "react",
+               "react/jsx-runtime",
+               "framer"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "LC4heOHJXh5Q0v49H98F",
+         "ownerId": "i0RbOs7pE8lGyow8pxuq",
+         "ownerType": "project",
+         "createdAt": "2021-01-19T10:48:12.118158Z",
+         "updatedAt": "2021-09-23T13:28:01.468888Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/n3PcZBn",
+         "saveId": "s6UELBTMwAduQOGcYAdN",
+         "userId": "0da79354-a0bd-4558-81dc-8d0f957a9378",
+         "savedAt": "2021-09-23T13:28:01.468888Z",
+         "files": {
+            "module": "Gif.js",
+            "source": "Gif.tsx",
+            "sourceMap": "Gif.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 200,
+            "intrinsicWidth": 200
+         },
+         "exports": [
+            "Gif",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Gif.tsx",
+         "title": "Gif",
+         "baseURL": "https://framerusercontent.com/modules/LC4heOHJXh5Q0v49H98F/s6UELBTMwAduQOGcYAdN/",
+         "importURL": "https://framer.com/m/Gif-Sd9u.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "Gif",
+            "version": "1.3.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/Gif.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "s6UELBTMwAduQOGcYAdN"
+         },
+         "imports": {
+            "absolute": [
+               "https://framer.com/m/framer/default-urls.js@0.1.0",
+               "https://framer.com/m/framer/gif-assets.js@0.1.0",
+               "https://framer.com/m/framer/default-utils.js@^0.45.0"
+            ],
+            "bare": [
+               "react/jsx-runtime",
+               "react",
+               "framer"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "lRDHiNWNVWmE0lqtoVHP",
+         "ownerId": "i0RbOs7pE8lGyow8pxuq",
+         "ownerType": "project",
+         "createdAt": "2022-05-12T19:15:08.902849Z",
+         "updatedAt": "2025-02-06T14:13:59.006325Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/bPLbevO",
+         "saveId": "7qT0r3So12155VV5Jq5x",
+         "userId": "7911f1fa-d330-4f5e-9a99-2d85eda1267f",
+         "savedAt": "2025-02-06T14:13:59.006325Z",
+         "files": {
+            "module": "Video.js",
+            "source": "Video.tsx",
+            "sourceMap": "Video.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 112,
+            "intrinsicWidth": 200,
+            "localModuleImportMapEntries": false,
+            "treeAnnotations": true
+         },
+         "exports": [
+            "titleCase",
+            "Video",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Video.tsx",
+         "title": "Video",
+         "baseURL": "https://framerusercontent.com/modules/lRDHiNWNVWmE0lqtoVHP/7qT0r3So12155VV5Jq5x/",
+         "importURL": "https://framer.com/m/Video-zeTp.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "Video",
+            "version": "1.14.3",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/Video.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "7qT0r3So12155VV5Jq5x"
+         },
+         "imports": {
+            "absolute": [
+               "https://framerusercontent.com/modules/G4IfyjvwmaeSBpdb4TWu/OIjZRBmWDcIE2B6qgG1j/index.js"
+            ],
+            "bare": [
+               "framer",
+               "react",
+               "react/jsx-runtime",
+               "framer-motion"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "NEd4VmDdsxM3StIUbddO",
+         "ownerId": "i0RbOs7pE8lGyow8pxuq",
+         "ownerType": "project",
+         "createdAt": "2021-01-19T19:59:50.637699Z",
+         "updatedAt": "2025-04-15T15:14:13.678995Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/P_ecUUS",
+         "saveId": "DDzyuYPF56TuI0bfUu2z",
+         "userId": "7911f1fa-d330-4f5e-9a99-2d85eda1267f",
+         "savedAt": "2025-04-10T15:47:24.649734Z",
+         "files": {
+            "module": "YouTube.js",
+            "source": "YouTube.tsx",
+            "sourceMap": "YouTube.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 315,
+            "intrinsicWidth": 560,
+            "localModuleImportMapEntries": false,
+            "treeAnnotations": true
+         },
+         "exports": [
+            "Youtube",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "YouTube.tsx",
+         "title": "YouTube",
+         "baseURL": "https://framerusercontent.com/modules/NEd4VmDdsxM3StIUbddO/DDzyuYPF56TuI0bfUu2z/",
+         "importURL": "https://framer.com/m/YouTube-fgQI.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "Youtube",
+            "version": "1.5.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/Youtube.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "DDzyuYPF56TuI0bfUu2z"
+         },
+         "imports": {
+            "absolute": [
+               "https://framer.com/m/framer/default-utils.js@^0.45.0"
+            ],
+            "bare": [
+               "react/jsx-runtime",
+               "framer",
+               "react"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "0sWquksFr1YDkaIgrl9Z",
+         "ownerId": "6QftrecIW4vkUjihqK3P",
+         "ownerType": "project",
+         "createdAt": "2021-08-31T12:00:10.284911Z",
+         "updatedAt": "2025-03-28T12:13:18.981032Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/IjsvLAV",
+         "saveId": "jKzAzDE1dbmgPC3q8RAo",
+         "userId": "7911f1fa-d330-4f5e-9a99-2d85eda1267f",
+         "savedAt": "2025-03-28T12:13:18.981032Z",
+         "files": {
+            "module": "Vimeo.js",
+            "source": "Vimeo.tsx",
+            "sourceMap": "Vimeo.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 270,
+            "intrinsicWidth": 480,
+            "localModuleImportMapEntries": false,
+            "treeAnnotations": true
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Vimeo.tsx",
+         "title": "Vimeo",
+         "baseURL": "https://framerusercontent.com/modules/0sWquksFr1YDkaIgrl9Z/jKzAzDE1dbmgPC3q8RAo/",
+         "importURL": "https://framer.com/m/Vimeo-nCWv.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "vimeo",
+            "version": "0.6.1",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/vimeo.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "jKzAzDE1dbmgPC3q8RAo"
+         },
+         "imports": {
+            "absolute": [
+               "https://framer.com/m/framer/default-utils.js@^0.45.0"
+            ],
+            "bare": [
+               "@vimeo/player",
+               "react/jsx-runtime",
+               "framer",
+               "framer-motion",
+               "react"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "jfK7C7JmdHGaVBsvt1V7",
+         "ownerId": "o23GvIjDoZKTXTugbVtp",
+         "ownerType": "project",
+         "createdAt": "2023-02-08T08:12:47.790119Z",
+         "updatedAt": "2024-10-31T09:32:47.802401Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/K0qQYLN",
+         "saveId": "G0lF2a2mezep3QZSQZwm",
+         "userId": "71062f5e-883f-438a-a3b0-c60d0b8b38b4",
+         "savedAt": "2023-02-15T10:11:55.450815Z",
+         "files": {
+            "module": "DotLottie.js",
+            "source": "DotLottie.tsx",
+            "sourceMap": "DotLottie.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 200,
+            "intrinsicWidth": 200
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "DotLottie.tsx",
+         "title": "DotLottie",
+         "baseURL": "https://framerusercontent.com/modules/jfK7C7JmdHGaVBsvt1V7/G0lF2a2mezep3QZSQZwm/",
+         "importURL": "https://framer.com/m/DotLottie-rg8z.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "DotLottie",
+            "version": "1.4.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/DotLottie.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "G0lF2a2mezep3QZSQZwm"
+         },
+         "imports": {
+            "absolute": [
+               "https://unpkg.com/@dotlottie/player-component@1.3.2/dist/dotlottie-player.js"
+            ],
+            "bare": [
+               "react",
+               "react/jsx-runtime",
+               "framer"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "YbkSqZ7STzW5WsMb1yan",
+         "ownerId": "i0RbOs7pE8lGyow8pxuq",
+         "ownerType": "project",
+         "createdAt": "2021-09-21T09:41:31.863296Z",
+         "updatedAt": "2025-04-28T14:24:56.034366Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/v1sAdhk",
+         "saveId": "RLfsHd78NBd0kbafA9hd",
+         "userId": "0da79354-a0bd-4558-81dc-8d0f957a9378",
+         "savedAt": "2024-10-14T15:17:18.106622Z",
+         "files": {
+            "module": "Lottie.js",
+            "source": "Lottie.tsx",
+            "sourceMap": "Lottie.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 350,
+            "intrinsicWidth": 200,
+            "localModuleImportMapEntries": false
+         },
+         "exports": [
+            "Lottie",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Lottie.tsx",
+         "title": "Lottie",
+         "baseURL": "https://framerusercontent.com/modules/YbkSqZ7STzW5WsMb1yan/RLfsHd78NBd0kbafA9hd/",
+         "importURL": "https://framer.com/m/Lottie-jw5f.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "Lottie",
+            "version": "1.7.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/Lottie.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "RLfsHd78NBd0kbafA9hd"
+         },
+         "imports": {
+            "absolute": [
+               "https://jspm.dev/lottie-web@5.7.8",
+               "https://framer.com/m/framer/default-utils.js@^0.45.0",
+               "https://framer.com/m/framer/useAutoMotionValue.js@0.3.0"
+            ],
+            "bare": [
+               "react",
+               "react/jsx-runtime",
+               "framer"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "tW1ExjbbJRt9YcZ0Gyxk",
+         "ownerId": "i0RbOs7pE8lGyow8pxuq",
+         "ownerType": "project",
+         "createdAt": "2021-06-15T08:36:34.041927Z",
+         "updatedAt": "2025-03-27T15:35:10.783504Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/SlnwgRY",
+         "saveId": "7xLQ6of7kXWmBUVuRiYG",
+         "userId": "37b5379e-8528-4d58-b64d-2992f7419ca4",
+         "savedAt": "2021-09-22T09:14:53.558104Z",
+         "files": {
+            "module": "Spotify.js",
+            "source": "Spotify.tsx",
+            "sourceMap": "Spotify.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 350,
+            "intrinsicWidth": 280
+         },
+         "exports": [
+            "Spotify",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Spotify.tsx",
+         "title": "Spotify",
+         "baseURL": "https://framerusercontent.com/modules/tW1ExjbbJRt9YcZ0Gyxk/7xLQ6of7kXWmBUVuRiYG/",
+         "importURL": "https://framer.com/m/Spotify-1sIj.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "Spotify",
+            "version": "0.6.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/Spotify.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "7xLQ6of7kXWmBUVuRiYG"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "react/jsx-runtime",
+               "framer",
+               "react"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "rwOL75pJfUm1chf60B4p",
+         "ownerId": "xVXl2p8UnwJkfQdZ2iYr",
+         "ownerType": "project",
+         "createdAt": "2021-09-06T10:29:03.654705Z",
+         "updatedAt": "2021-12-10T14:11:58.944546Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/t2Fn67f",
+         "saveId": "hc0tDiWPYnO20TBWLHGR",
+         "userId": "0febbb6b-1f72-424c-9466-293fe084e6a7",
+         "savedAt": "2021-12-10T14:11:58.944546Z",
+         "files": {
+            "module": "ApplePodcasts.js",
+            "source": "ApplePodcasts.tsx",
+            "sourceMap": "ApplePodcasts.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 175,
+            "intrinsicWidth": 400
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "ApplePodcasts.tsx",
+         "title": "ApplePodcasts",
+         "baseURL": "https://framerusercontent.com/modules/rwOL75pJfUm1chf60B4p/hc0tDiWPYnO20TBWLHGR/",
+         "importURL": "https://framer.com/m/ApplePodcasts-cy5p.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "apple-podcasts",
+            "version": "0.1.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/apple-podcasts.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "hc0tDiWPYnO20TBWLHGR"
+         },
+         "imports": {
+            "absolute": [
+               "https://framer.com/m/framer/default-utils.js@^0.45.0",
+               "https://framer.com/m/framer/integrations-styles.js@0.2.0"
+            ],
+            "bare": [
+               "react/jsx-runtime",
+               "framer",
+               "react"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "iH0dC3d1a99tJbx8s2oc",
+         "ownerId": "tc3oQOTN6VejhGgNLA3O",
+         "ownerType": "project",
+         "createdAt": "2021-09-23T06:50:00.698944Z",
+         "updatedAt": "2022-03-09T14:36:03.910355Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/bmoZrcZ",
+         "saveId": "R0Wu06W2ujHUtW00fgCq",
+         "userId": "0da79354-a0bd-4558-81dc-8d0f957a9378",
+         "savedAt": "2022-03-08T15:24:40.97119Z",
+         "files": {
+            "module": "SoundCloud.js",
+            "source": "SoundCloud.tsx",
+            "sourceMap": "SoundCloud.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 300,
+            "intrinsicWidth": 500
+         },
+         "exports": [
+            "SoundCloud",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "SoundCloud.tsx",
+         "title": "SoundCloud",
+         "baseURL": "https://framerusercontent.com/modules/iH0dC3d1a99tJbx8s2oc/R0Wu06W2ujHUtW00fgCq/",
+         "importURL": "https://framer.com/m/SoundCloud-xQT9.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "soundcloud",
+            "version": "2.0.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/soundcloud.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "R0Wu06W2ujHUtW00fgCq"
+         },
+         "imports": {
+            "absolute": [
+               "https://framer.com/m/framer/integrations-styles.js@0.2.0"
+            ],
+            "bare": [
+               "react/jsx-runtime",
+               "react",
+               "framer-motion",
+               "framer"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "bGK4RIr3q7JjhzLaKVL7",
+         "ownerId": "4o2JyGyg0hy16YsCFjIV",
+         "ownerType": "project",
+         "createdAt": "2021-09-06T13:58:31.8761Z",
+         "updatedAt": "2022-09-14T08:59:16.301942Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/ADEnn7L",
+         "saveId": "BQvHIypWy5ZStrVIwBvW",
+         "userId": "99cf9bc5-fefb-4db2-aa3b-09d2b25fbf9a",
+         "savedAt": "2022-09-14T08:59:16.301942Z",
+         "files": {
+            "module": "AppleMusic.js",
+            "source": "AppleMusic.tsx",
+            "sourceMap": "AppleMusic.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 150,
+            "intrinsicWidth": 400
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "AppleMusic.tsx",
+         "title": "AppleMusic",
+         "baseURL": "https://framerusercontent.com/modules/bGK4RIr3q7JjhzLaKVL7/BQvHIypWy5ZStrVIwBvW/",
+         "importURL": "https://framer.com/m/AppleMusic-8G1f.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "apple-music",
+            "version": "0.2.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/apple-music.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "BQvHIypWy5ZStrVIwBvW"
+         },
+         "imports": {
+            "absolute": [
+               "https://framer.com/m/framer/default-utils.js@^0.45.0",
+               "https://framer.com/m/framer/integrations-styles.js@0.2.0"
+            ],
+            "bare": [
+               "react/jsx-runtime",
+               "framer",
+               "react"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "q2cL7syGc9ukRT0XBvXQ",
+         "ownerId": "yybXj0sTgPwXZmD1iqpH",
+         "ownerType": "project",
+         "createdAt": "2021-09-03T09:21:47.7281Z",
+         "updatedAt": "2022-03-02T13:07:49.795679Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/EqN2mbY",
+         "saveId": "eisuJ8RdREB9nFBEu9GQ",
+         "userId": "e7937938-3ed7-4245-a36a-73d04e1216ed",
+         "savedAt": "2022-03-02T13:07:49.795679Z",
+         "files": {
+            "module": "Simplecast.js",
+            "source": "Simplecast.tsx",
+            "sourceMap": "Simplecast.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 200,
+            "intrinsicWidth": 400
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Simplecast.tsx",
+         "title": "Simplecast",
+         "baseURL": "https://framerusercontent.com/modules/q2cL7syGc9ukRT0XBvXQ/eisuJ8RdREB9nFBEu9GQ/",
+         "importURL": "https://framer.com/m/Simplecast-Iy0R.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "simplecast",
+            "version": "0.1.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/simplecast.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "eisuJ8RdREB9nFBEu9GQ"
+         },
+         "imports": {
+            "absolute": [
+               "https://framer.com/m/framer/default-utils.js@^0.45.0",
+               "https://framer.com/m/framer/integrations-styles.js@0.2.0"
+            ],
+            "bare": [
+               "react/jsx-runtime",
+               "framer",
+               "framer-motion"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "NRKVbMFYrBaqL0rx532t",
+         "ownerId": "i0RbOs7pE8lGyow8pxuq",
+         "ownerType": "project",
+         "createdAt": "2021-02-17T16:27:11.931522Z",
+         "updatedAt": "2024-08-26T08:26:48.184074Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/iyUg4hj",
+         "saveId": "o1XmI0MqgEIlgDIKXNDR",
+         "userId": "0da79354-a0bd-4558-81dc-8d0f957a9378",
+         "savedAt": "2024-07-23T12:52:11.044098Z",
+         "files": {
+            "module": "Audio.js",
+            "source": "Audio.tsx",
+            "sourceMap": "Audio.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 50,
+            "intrinsicWidth": 240,
+            "localModuleImportMapEntries": false
+         },
+         "exports": [
+            "Audio",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Audio.tsx",
+         "title": "Audio",
+         "baseURL": "https://framerusercontent.com/modules/NRKVbMFYrBaqL0rx532t/o1XmI0MqgEIlgDIKXNDR/",
+         "importURL": "https://framer.com/m/Audio-GhqC.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "Audio",
+            "version": "1.10.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/Audio.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "o1XmI0MqgEIlgDIKXNDR"
+         },
+         "imports": {
+            "absolute": [
+               "https://framer.com/m/framer/default-utils.js@^0.45.0"
+            ],
+            "bare": [
+               "react/jsx-runtime",
+               "framer",
+               "react",
+               "framer-motion"
+            ],
+            "relative": [
+               "./Slider.tsx"
+            ]
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "CJgw13h0ok22pdnRmFv0",
+         "ownerId": "dKRghqkA2fsbiqW789R2",
+         "ownerType": "project",
+         "createdAt": "2024-03-28T13:35:43.804504Z",
+         "updatedAt": "2025-05-15T07:42:31.927325Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/qlBUEZW",
+         "saveId": "DpDuagHxUou2LuRSPXcw",
+         "userId": "66b8a083-696b-4aee-997d-96c6cefa67ea",
+         "savedAt": "2025-05-15T07:42:31.927325Z",
+         "files": {
+            "module": "Input_Loops.js",
+            "source": "Input_Loops.tsx",
+            "sourceMap": "Input_Loops.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 40,
+            "intrinsicWidth": 300,
+            "localModuleImportMapEntries": false,
+            "treeAnnotations": true
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Input_Loops.tsx",
+         "title": "Input_Loops",
+         "baseURL": "https://framerusercontent.com/modules/CJgw13h0ok22pdnRmFv0/DpDuagHxUou2LuRSPXcw/",
+         "importURL": "https://framer.com/m/Input-Loops-jajs.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "Loops",
+            "version": "0.3.1",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/Loops.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "DpDuagHxUou2LuRSPXcw"
+         },
+         "imports": {
+            "absolute": [
+               "https://framer.com/m/framer/InputSites.js@1.15.1"
+            ],
+            "bare": [
+               "framer",
+               "react/jsx-runtime"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "O4nTVQCXY50llpKf7Pq5",
+         "ownerId": "dKRghqkA2fsbiqW789R2",
+         "ownerType": "project",
+         "createdAt": "2024-03-28T15:20:51.498187Z",
+         "updatedAt": "2025-05-15T07:55:10.208921Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/qRELCaF",
+         "saveId": "jdU3ZspO1AnLl6ucDsHw",
+         "userId": "ddd86e61-3d7c-4f0e-8c16-b02dc609d013",
+         "savedAt": "2025-05-15T07:55:10.208921Z",
+         "files": {
+            "module": "Input_ConvertKit.js",
+            "source": "Input_ConvertKit.tsx",
+            "sourceMap": "Input_ConvertKit.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 40,
+            "intrinsicWidth": 300,
+            "localModuleImportMapEntries": false,
+            "treeAnnotations": true
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Input_ConvertKit.tsx",
+         "title": "Input_ConvertKit",
+         "baseURL": "https://framerusercontent.com/modules/O4nTVQCXY50llpKf7Pq5/jdU3ZspO1AnLl6ucDsHw/",
+         "importURL": "https://framer.com/m/Input-ConvertKit-3ELI.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "ConvertKit",
+            "version": "0.3.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/ConvertKit.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "jdU3ZspO1AnLl6ucDsHw"
+         },
+         "imports": {
+            "absolute": [
+               "https://framer.com/m/framer/InputSites.js@1.15.1"
+            ],
+            "bare": [
+               "react/jsx-runtime",
+               "framer"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "tEJqoun4MtBed1OjNwKy",
+         "ownerId": "dKRghqkA2fsbiqW789R2",
+         "ownerType": "project",
+         "createdAt": "2024-03-28T15:26:07.301561Z",
+         "updatedAt": "2025-05-15T07:55:13.596153Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/NOerNVU",
+         "saveId": "7kQOsXBqKuEo9DY0lphW",
+         "userId": "ddd86e61-3d7c-4f0e-8c16-b02dc609d013",
+         "savedAt": "2025-05-15T07:55:13.596153Z",
+         "files": {
+            "module": "Input_Mailchimp.js",
+            "source": "Input_Mailchimp.tsx",
+            "sourceMap": "Input_Mailchimp.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 40,
+            "intrinsicWidth": 300,
+            "localModuleImportMapEntries": false,
+            "treeAnnotations": true
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Input_Mailchimp.tsx",
+         "title": "Input_Mailchimp",
+         "baseURL": "https://framerusercontent.com/modules/tEJqoun4MtBed1OjNwKy/7kQOsXBqKuEo9DY0lphW/",
+         "importURL": "https://framer.com/m/Input-Mailchimp-lQ6t.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "MailChimp",
+            "version": "0.4.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/MailChimp.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "7kQOsXBqKuEo9DY0lphW"
+         },
+         "imports": {
+            "absolute": [
+               "https://framer.com/m/framer/InputSites.js@1.15.1"
+            ],
+            "bare": [
+               "react/jsx-runtime",
+               "framer"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "0dfzTKPSzK8b138I1Gsl",
+         "ownerId": "dKRghqkA2fsbiqW789R2",
+         "ownerType": "project",
+         "createdAt": "2024-03-28T15:31:36.486485Z",
+         "updatedAt": "2025-05-15T07:55:16.673251Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/FSNIgof",
+         "saveId": "7DmCuMsYuiEZvZyAPskL",
+         "userId": "ddd86e61-3d7c-4f0e-8c16-b02dc609d013",
+         "savedAt": "2025-05-15T07:55:16.673251Z",
+         "files": {
+            "module": "Input_Waitlist.js",
+            "source": "Input_Waitlist.tsx",
+            "sourceMap": "Input_Waitlist.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 40,
+            "intrinsicWidth": 300,
+            "localModuleImportMapEntries": false,
+            "treeAnnotations": true
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Input_Waitlist.tsx",
+         "title": "Input_Waitlist",
+         "baseURL": "https://framerusercontent.com/modules/0dfzTKPSzK8b138I1Gsl/7DmCuMsYuiEZvZyAPskL/",
+         "importURL": "https://framer.com/m/Input-Waitlist-JcgJ.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "WaitList",
+            "version": "0.3.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/WaitList.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "7DmCuMsYuiEZvZyAPskL"
+         },
+         "imports": {
+            "absolute": [
+               "https://framer.com/m/framer/InputSites.js@1.15.1"
+            ],
+            "bare": [
+               "framer",
+               "react/jsx-runtime"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "LoWwZfPC4cHteYUUDkMp",
+         "ownerId": "dKRghqkA2fsbiqW789R2",
+         "ownerType": "project",
+         "createdAt": "2024-04-10T09:42:11.343943Z",
+         "updatedAt": "2025-05-15T07:55:19.472502Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/t3McfrO",
+         "saveId": "cPZet1MKhluhGWr5jxRU",
+         "userId": "ddd86e61-3d7c-4f0e-8c16-b02dc609d013",
+         "savedAt": "2025-05-15T07:55:19.472502Z",
+         "files": {
+            "module": "Input_Formspark.js",
+            "source": "Input_Formspark.tsx",
+            "sourceMap": "Input_Formspark.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 40,
+            "intrinsicWidth": 300,
+            "localModuleImportMapEntries": false,
+            "treeAnnotations": true
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Input_Formspark.tsx",
+         "title": "Input_Formspark",
+         "baseURL": "https://framerusercontent.com/modules/LoWwZfPC4cHteYUUDkMp/cPZet1MKhluhGWr5jxRU/",
+         "importURL": "https://framer.com/m/Input-Formspark-TC0g.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "Formspark",
+            "version": "0.2.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/Formspark.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "cPZet1MKhluhGWr5jxRU"
+         },
+         "imports": {
+            "absolute": [
+               "https://framer.com/m/framer/InputSites.js@1.15.1"
+            ],
+            "bare": [
+               "framer",
+               "react/jsx-runtime"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "WIJbzyan03eQVbqqCNqQ",
+         "ownerId": "pMjcgdKBxYs8XSKDBXRt",
+         "ownerType": "project",
+         "createdAt": "2021-08-31T15:05:01.177517Z",
+         "updatedAt": "2021-12-10T14:07:44.687964Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/AJdnac7",
+         "saveId": "ZVFGE0CIYem9dXbVNw5j",
+         "userId": "0febbb6b-1f72-424c-9466-293fe084e6a7",
+         "savedAt": "2021-12-10T14:07:44.687964Z",
+         "files": {
+            "module": "Calendly.js",
+            "source": "Calendly.tsx",
+            "sourceMap": "Calendly.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 600,
+            "intrinsicWidth": 500
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Calendly.tsx",
+         "title": "Calendly",
+         "baseURL": "https://framerusercontent.com/modules/WIJbzyan03eQVbqqCNqQ/ZVFGE0CIYem9dXbVNw5j/",
+         "importURL": "https://framer.com/m/Calendly-qFmu.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "calendly",
+            "version": "0.1.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/calendly.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "ZVFGE0CIYem9dXbVNw5j"
+         },
+         "imports": {
+            "absolute": [
+               "https://jspm.dev/react-calendly@2.2.1",
+               "https://framer.com/m/framer/default-utils.js@^0.45.0",
+               "https://framer.com/m/framer/integrations-styles.js@0.2.0"
+            ],
+            "bare": [
+               "react/jsx-runtime",
+               "framer",
+               "framer-motion"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "UIhUTcd796YH7Ndybys8",
+         "ownerId": "uQATi0ovvRFpgOjsAja9",
+         "ownerType": "project",
+         "createdAt": "2021-09-02T14:41:04.253376Z",
+         "updatedAt": "2021-12-14T09:44:45.675582Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/DAH6e2X",
+         "saveId": "totj55n8qE3VYpdXhshW",
+         "userId": "0febbb6b-1f72-424c-9466-293fe084e6a7",
+         "savedAt": "2021-12-14T09:44:45.675582Z",
+         "files": {
+            "module": "Intercom.js",
+            "source": "Intercom.tsx",
+            "sourceMap": "Intercom.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 100,
+            "intrinsicWidth": 200
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Intercom.tsx",
+         "title": "Intercom",
+         "baseURL": "https://framerusercontent.com/modules/UIhUTcd796YH7Ndybys8/totj55n8qE3VYpdXhshW/",
+         "importURL": "https://framer.com/m/Intercom-JEIW.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "intercom",
+            "version": "0.1.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/intercom.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "totj55n8qE3VYpdXhshW"
+         },
+         "imports": {
+            "absolute": [
+               "https://framer.com/m/framer/react-use-intercom.js@0.0.3",
+               "https://framer.com/m/framer/integrations-styles.js@^0.2.0"
+            ],
+            "bare": [
+               "react/jsx-runtime",
+               "framer",
+               "framer-motion"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "uyKL83UOiQk88ZAT4YJF",
+         "ownerId": "LusnMbUNTa23o6LSTwTv",
+         "ownerType": "project",
+         "createdAt": "2025-04-14T15:41:17.797551Z",
+         "updatedAt": "2025-04-17T15:32:34.773244Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/B9LpdZ8",
+         "saveId": "aUG7IYZiBdIFSn5FtKj5",
+         "userId": "78386bf4-7fde-4a91-8763-6f7e541be1c7",
+         "savedAt": "2025-04-17T15:32:34.773244Z",
+         "files": {
+            "module": "Typeform.js",
+            "source": "Typeform.tsx",
+            "sourceMap": "Typeform.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 600,
+            "intrinsicWidth": 800,
+            "localModuleImportMapEntries": false,
+            "treeAnnotations": true
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Typeform.tsx",
+         "title": "Typeform",
+         "baseURL": "https://framerusercontent.com/modules/uyKL83UOiQk88ZAT4YJF/aUG7IYZiBdIFSn5FtKj5/",
+         "importURL": "https://framer.com/m/Typeform-FeyK.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "TypeformV2",
+            "version": "0.2.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/TypeformV2.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "aUG7IYZiBdIFSn5FtKj5"
+         },
+         "imports": {
+            "absolute": [
+               "https://framer.com/m/framer/integrations-styles.js@0.2.0",
+               "https://cdn.skypack.dev/@typeform/embed@1.32.0",
+               "https://framer.com/m/framer/default-utils.js@^0.45.0"
+            ],
+            "bare": [
+               "react/jsx-runtime",
+               "framer",
+               "react"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "uGQZtcsxBzvxqsgxQ0Tz",
+         "ownerId": "md6s8DOmZKjSov83l0GV",
+         "ownerType": "project",
+         "createdAt": "2021-11-22T09:58:59.181021Z",
+         "updatedAt": "2024-02-16T13:41:09.838003Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/KRIg1Go",
+         "saveId": "b7VYVaGCWWNyhqVsgsiv",
+         "userId": "3be498e7-7cfa-4257-9860-37b60d76eeb2",
+         "savedAt": "2024-02-16T13:41:09.838003Z",
+         "files": {
+            "module": "Hubspot.js",
+            "source": "Hubspot.tsx",
+            "sourceMap": "Hubspot.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 300,
+            "intrinsicWidth": 480,
+            "localModuleImportMapEntries": false
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Hubspot.tsx",
+         "title": "Hubspot",
+         "baseURL": "https://framerusercontent.com/modules/uGQZtcsxBzvxqsgxQ0Tz/b7VYVaGCWWNyhqVsgsiv/",
+         "importURL": "https://framer.com/m/Hubspot-iz3U.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "hubspot",
+            "version": "0.5.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/hubspot.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "b7VYVaGCWWNyhqVsgsiv"
+         },
+         "imports": {
+            "absolute": [
+               "https://framer.com/m/framer/integrations-styles.js@0.2.0"
+            ],
+            "bare": [
+               "react",
+               "framer",
+               "react/jsx-runtime"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "57FhkldN9P7x88MqAEaR",
+         "ownerId": "24lF8g09rvUdA558IqVI",
+         "ownerType": "project",
+         "createdAt": "2023-09-19T14:00:46.929866Z",
+         "updatedAt": "2025-02-19T21:11:53.014199Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/NHwrBJC",
+         "saveId": "fW26mCIOTpHHBOBnf7GZ",
+         "userId": "15766674-65ec-4718-8584-c664aa8a38c3",
+         "savedAt": "2025-02-19T21:11:53.014199Z",
+         "files": {
+            "module": "LocaleSelector.js",
+            "source": "LocaleSelector.tsx",
+            "sourceMap": "LocaleSelector.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 34,
+            "intrinsicWidth": 120,
+            "localModuleImportMapEntries": false,
+            "treeAnnotations": true
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "LocaleSelector.tsx",
+         "title": "LocaleSelector",
+         "baseURL": "https://framerusercontent.com/modules/57FhkldN9P7x88MqAEaR/fW26mCIOTpHHBOBnf7GZ/",
+         "importURL": "https://framer.com/m/LocaleSelector-Qrvu.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "LocaleSelector",
+            "version": "0.10.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/LocaleSelector.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "fW26mCIOTpHHBOBnf7GZ"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "react",
+               "react/jsx-runtime",
+               "framer"
+            ],
+            "relative": [
+               "./utils/radius.ts",
+               "./utils/hover.ts",
+               "./utils/border.ts",
+               "./utils/focus.ts",
+               "./utils/padding.ts"
+            ]
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "6wAE2eMb2Tl3zrU7u4UL",
+         "ownerId": "qikTnr1J32LPKuIq4Wsv",
+         "ownerType": "project",
+         "createdAt": "2023-03-02T11:14:39.320515Z",
+         "updatedAt": "2025-06-11T15:30:29.887078Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/GCuRK8h",
+         "saveId": "fZYCcWXDiruXib2k8aXr",
+         "userId": "e03826ba-b642-40d9-a96d-e290d7c07b08",
+         "savedAt": "2025-06-11T15:30:29.887078Z",
+         "files": {
+            "module": "Search.js",
+            "source": "Search.tsx",
+            "sourceMap": "Search.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 40,
+            "intrinsicWidth": 40,
+            "localModuleImportMapEntries": false,
+            "treeAnnotations": true
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Search.tsx",
+         "title": "Search",
+         "baseURL": "https://framerusercontent.com/modules/6wAE2eMb2Tl3zrU7u4UL/fZYCcWXDiruXib2k8aXr/",
+         "importURL": "https://framer.com/m/Search-IjRT.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "search",
+            "version": "1.58.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/search.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "fZYCcWXDiruXib2k8aXr"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "react-dom",
+               "react",
+               "framer-motion",
+               "framer",
+               "react/jsx-runtime"
+            ],
+            "relative": [
+               "./lib/browser.ts",
+               "./lib/Icons.tsx",
+               "./lib/utils.ts",
+               "./lib/SearchModal.tsx",
+               "./lib/useViewportSizeState.ts"
+            ]
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "GbX8S6ghmyszcS2GLR2F",
+         "ownerId": "8lTjsCUvGfL10ryHnqrn",
+         "ownerType": "project",
+         "createdAt": "2023-07-03T12:07:35.139711Z",
+         "updatedAt": "2025-05-27T11:57:28.588168Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/mE6VQuC",
+         "saveId": "IH6s9ASs8tTeXMp8PWOj",
+         "userId": "7911f1fa-d330-4f5e-9a99-2d85eda1267f",
+         "savedAt": "2025-03-07T11:48:41.317625Z",
+         "files": {
+            "module": "Cookies.js",
+            "source": "Cookies.tsx",
+            "sourceMap": "Cookies.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 40,
+            "intrinsicWidth": 40,
+            "localModuleImportMapEntries": false,
+            "treeAnnotations": true
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Cookies.tsx",
+         "title": "Cookies",
+         "baseURL": "https://framerusercontent.com/modules/GbX8S6ghmyszcS2GLR2F/IH6s9ASs8tTeXMp8PWOj/",
+         "importURL": "https://framer.com/m/Cookies-lPGH.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "Cookies",
+            "version": "1.10.5",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/Cookies.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "IH6s9ASs8tTeXMp8PWOj"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "react",
+               "react/jsx-runtime",
+               "react-dom",
+               "framer",
+               "framer-motion"
+            ],
+            "relative": [
+               "./hooks/region.ts",
+               "./lib/Icons.tsx",
+               "./hooks/consent.ts",
+               "./lib/Banner.tsx",
+               "./lib/utils.ts",
+               "./lib/inEU.ts"
+            ]
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "B2xAlJLcN0gOnt11mSPw",
+         "ownerId": "oKbEQPOy8myK6skszOzS",
+         "ownerType": "project",
+         "createdAt": "2022-07-15T09:35:35.908118Z",
+         "updatedAt": "2025-03-20T10:44:27.44957Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/PIRxYi6",
+         "saveId": "jyRNgY7vYWXe6t31T0wo",
+         "userId": "7911f1fa-d330-4f5e-9a99-2d85eda1267f",
+         "savedAt": "2025-03-20T10:44:27.44957Z",
+         "files": {
+            "module": "Ticker.js",
+            "source": "Ticker.tsx",
+            "sourceMap": "Ticker.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 200,
+            "intrinsicWidth": 400,
+            "localModuleImportMapEntries": false,
+            "treeAnnotations": true
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Ticker.tsx",
+         "title": "Ticker",
+         "baseURL": "https://framerusercontent.com/modules/B2xAlJLcN0gOnt11mSPw/jyRNgY7vYWXe6t31T0wo/",
+         "importURL": "https://framer.com/m/Ticker-HRNz.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "Ticker",
+            "version": "1.67.3",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/Ticker.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "jyRNgY7vYWXe6t31T0wo"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "@motionone/dom",
+               "react/jsx-runtime",
+               "framer",
+               "react",
+               "framer-motion"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "zvkTOpMSuRzRhLzZZIwG",
+         "ownerId": "oKbEQPOy8myK6skszOzS",
+         "ownerType": "project",
+         "createdAt": "2022-09-21T09:21:14.833769Z",
+         "updatedAt": "2025-04-14T07:25:05.056611Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/lfwMRRL",
+         "saveId": "vzgdvq3ezmf3RWurtT17",
+         "userId": "7911f1fa-d330-4f5e-9a99-2d85eda1267f",
+         "savedAt": "2025-04-14T07:25:05.056611Z",
+         "files": {
+            "module": "SlideShow.js",
+            "source": "SlideShow.tsx",
+            "sourceMap": "SlideShow.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 200,
+            "intrinsicWidth": 400,
+            "localModuleImportMapEntries": false,
+            "treeAnnotations": true
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "SlideShow.tsx",
+         "title": "SlideShow",
+         "baseURL": "https://framerusercontent.com/modules/zvkTOpMSuRzRhLzZZIwG/vzgdvq3ezmf3RWurtT17/",
+         "importURL": "https://framer.com/m/SlideShow-07du.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "Slideshow",
+            "version": "1.56.9",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/Slideshow.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "vzgdvq3ezmf3RWurtT17"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "framer",
+               "react",
+               "@motionone/dom",
+               "react/jsx-runtime",
+               "framer-motion"
+            ],
+            "relative": [
+               "./UsePageVisibility.tsx"
+            ]
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "UIrMjSS6ZX89L0CsT8k6",
+         "ownerId": "oKbEQPOy8myK6skszOzS",
+         "ownerType": "project",
+         "createdAt": "2022-07-18T10:14:58.902402Z",
+         "updatedAt": "2025-06-04T08:32:27.082826Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/w3ZUgfd",
+         "saveId": "ML2P8tpN3NMgUZoox0ho",
+         "userId": "7911f1fa-d330-4f5e-9a99-2d85eda1267f",
+         "savedAt": "2025-03-20T10:46:04.766824Z",
+         "files": {
+            "module": "Carousel.js",
+            "source": "Carousel.tsx",
+            "sourceMap": "Carousel.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 200,
+            "intrinsicWidth": 400,
+            "localModuleImportMapEntries": false,
+            "treeAnnotations": true
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Carousel.tsx",
+         "title": "Carousel",
+         "baseURL": "https://framerusercontent.com/modules/UIrMjSS6ZX89L0CsT8k6/ML2P8tpN3NMgUZoox0ho/",
+         "importURL": "https://framer.com/m/Carousel-bt0d.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "Carousel",
+            "version": "1.20.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/Carousel.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "WHE7Ad14JC9pF4yq2ZT0"
+         },
+         "imports": {
+            "absolute": [
+               "https://framer.com/m/framer/default-utils.js@^0.45.0"
+            ],
+            "bare": [
+               "react/jsx-runtime",
+               "framer",
+               "@motionone/dom",
+               "@motionone/utils",
+               "react",
+               "framer-motion"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "HGu8PKPDwAHu4uSgLoYR",
+         "ownerId": "yZTVlAZTrAxzcA37dwgB",
+         "ownerType": "project",
+         "createdAt": "2021-09-02T11:05:23.433948Z",
+         "updatedAt": "2025-04-03T10:25:07.036156Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/nDSxwS2",
+         "saveId": "8ScWawSL1gtbsgAxdHrd",
+         "userId": "e1899816-116f-4885-bf83-7ca297848d51",
+         "savedAt": "2023-06-20T07:55:43.135119Z",
+         "files": {
+            "module": "Instagram.js",
+            "source": "Instagram.tsx",
+            "sourceMap": "Instagram.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 410,
+            "intrinsicWidth": 300
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Instagram.tsx",
+         "title": "Instagram",
+         "baseURL": "https://framerusercontent.com/modules/HGu8PKPDwAHu4uSgLoYR/8ScWawSL1gtbsgAxdHrd/",
+         "importURL": "https://framer.com/m/Instagram-2Imv.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "instagram",
+            "version": "0.3.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/instagram.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "8ScWawSL1gtbsgAxdHrd"
+         },
+         "imports": {
+            "absolute": [
+               "https://framer.com/m/framer/default-utils.js@^0.45.0",
+               "https://framer.com/m/framer/integrations-styles.js@0.2.0"
+            ],
+            "bare": [
+               "react/jsx-runtime",
+               "react",
+               "framer",
+               "framer-motion"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "H9CvVrwLrFYAbKP9eYKI",
+         "ownerId": "CsjkGrxsTTK4ewrdgoQ4",
+         "ownerType": "project",
+         "createdAt": "2021-09-13T08:32:38.395805Z",
+         "updatedAt": "2021-12-10T14:12:27.079141Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/raSImEc",
+         "saveId": "LLwTL59gOwG1vkJhdZ4b",
+         "userId": "0febbb6b-1f72-424c-9466-293fe084e6a7",
+         "savedAt": "2021-12-10T14:12:27.079141Z",
+         "files": {
+            "module": "Facebook.js",
+            "source": "Facebook.tsx",
+            "sourceMap": "Facebook.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 200,
+            "intrinsicWidth": 200
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Facebook.tsx",
+         "title": "Facebook",
+         "baseURL": "https://framerusercontent.com/modules/H9CvVrwLrFYAbKP9eYKI/LLwTL59gOwG1vkJhdZ4b/",
+         "importURL": "https://framer.com/m/Facebook-bqF5.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "facebook",
+            "version": "0.1.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/facebook.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "LLwTL59gOwG1vkJhdZ4b"
+         },
+         "imports": {
+            "absolute": [
+               "https://framer.com/m/framer/default-utils.js@^0.45.0",
+               "https://framer.com/m/framer/integrations-styles.js@0.2.0"
+            ],
+            "bare": [
+               "react/jsx-runtime",
+               "react",
+               "framer",
+               "framer-motion"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "YLAIqVion55BUycOZr6e",
+         "ownerId": "5dZ1Jouzh5ow2iFEgDPp",
+         "ownerType": "project",
+         "createdAt": "2021-09-02T12:48:20.978382Z",
+         "updatedAt": "2025-04-15T15:15:24.52639Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/TeKXIYM",
+         "saveId": "0LSA6A2quEIy3gsR8bQ6",
+         "userId": "c42e785b-cbd9-41fe-8bfd-2e9c67b79789",
+         "savedAt": "2025-04-09T13:29:54.155736Z",
+         "files": {
+            "module": "Twitter.js",
+            "source": "Twitter.tsx",
+            "sourceMap": "Twitter.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 225,
+            "intrinsicWidth": 400,
+            "localModuleImportMapEntries": false,
+            "treeAnnotations": true
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Twitter.tsx",
+         "title": "Twitter",
+         "baseURL": "https://framerusercontent.com/modules/YLAIqVion55BUycOZr6e/0LSA6A2quEIy3gsR8bQ6/",
+         "importURL": "https://framer.com/m/Twitter-SgMH.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "twitter",
+            "version": "0.2.3",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/twitter.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "0LSA6A2quEIy3gsR8bQ6"
+         },
+         "imports": {
+            "absolute": [
+               "https://framer.com/m/framer/integrations-styles.js@0.2.0"
+            ],
+            "bare": [
+               "framer",
+               "react",
+               "framer-motion",
+               "react/jsx-runtime"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "Hbc0lxqGSRzFG6uMT9yO",
+         "ownerId": "lyBMx6JaSmZWnLHsRcs5",
+         "ownerType": "project",
+         "createdAt": "2021-09-03T13:28:45.325174Z",
+         "updatedAt": "2025-02-17T15:11:12.860317Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/uRF1woQ",
+         "saveId": "jZfB18ggDrqER5ihmIsa",
+         "userId": "27ad4c80-7114-4843-bae4-82da0d324ba3",
+         "savedAt": "2025-02-17T15:11:12.860317Z",
+         "files": {
+            "module": "GoogleMaps.js",
+            "source": "GoogleMaps.tsx",
+            "sourceMap": "GoogleMaps.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 400,
+            "intrinsicWidth": 600,
+            "localModuleImportMapEntries": false,
+            "treeAnnotations": true
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "GoogleMaps.tsx",
+         "title": "GoogleMaps",
+         "baseURL": "https://framerusercontent.com/modules/Hbc0lxqGSRzFG6uMT9yO/jZfB18ggDrqER5ihmIsa/",
+         "importURL": "https://framer.com/m/GoogleMaps-p6A1.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "google-maps",
+            "version": "0.1.1",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/google-maps.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "jZfB18ggDrqER5ihmIsa"
+         },
+         "imports": {
+            "absolute": [
+               "https://framer.com/m/framer/default-utils.js@^0.45.0"
+            ],
+            "bare": [
+               "react/jsx-runtime",
+               "framer"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "0FGMb16YHyLms7uyPaAH",
+         "ownerId": "37N9slcMFCJT0mXK95YQ",
+         "ownerType": "project",
+         "createdAt": "2021-09-14T08:27:18.578329Z",
+         "updatedAt": "2021-12-10T14:06:51.620009Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/wAe_SHh",
+         "saveId": "uiNz4HGoeFhuXmRmChjk",
+         "userId": "0febbb6b-1f72-424c-9466-293fe084e6a7",
+         "savedAt": "2021-12-10T14:06:51.620009Z",
+         "files": {
+            "module": "Trustpilot.js",
+            "source": "Trustpilot.tsx",
+            "sourceMap": "Trustpilot.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 100,
+            "intrinsicWidth": 200
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Trustpilot.tsx",
+         "title": "Trustpilot",
+         "baseURL": "https://framerusercontent.com/modules/0FGMb16YHyLms7uyPaAH/uiNz4HGoeFhuXmRmChjk/",
+         "importURL": "https://framer.com/m/Trustpilot-oSEL.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "trustpilot",
+            "version": "0.1.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/trustpilot.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "uiNz4HGoeFhuXmRmChjk"
+         },
+         "imports": {
+            "absolute": [
+               "https://framer.com/m/framer/default-utils.js@0.42.0",
+               "https://framer.com/m/Head-KL6Y.js@0DJ9VAp4ohq4RF96KF6A",
+               "https://framer.com/m/framer/integrations-styles.js@0.2.0"
+            ],
+            "bare": [
+               "react/jsx-runtime",
+               "framer",
+               "framer-motion",
+               "react"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "3aS1B1VhtklZST6WIiVW",
+         "ownerId": "rK0v69ttVMqCOanFER7y",
+         "ownerType": "project",
+         "createdAt": "2021-09-16T09:15:17.102781Z",
+         "updatedAt": "2022-03-08T15:09:58.746272Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/BXKCtkS",
+         "saveId": "QXzchNQL6BJ70nuUZNHe",
+         "userId": "0da79354-a0bd-4558-81dc-8d0f957a9378",
+         "savedAt": "2022-03-08T15:09:58.746272Z",
+         "files": {
+            "module": "Tagembed.js",
+            "source": "Tagembed.tsx",
+            "sourceMap": "Tagembed.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 400,
+            "intrinsicWidth": 400
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Tagembed.tsx",
+         "title": "Tagembed",
+         "baseURL": "https://framerusercontent.com/modules/3aS1B1VhtklZST6WIiVW/QXzchNQL6BJ70nuUZNHe/",
+         "importURL": "https://framer.com/m/Tagembed-Per7.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "tagembed",
+            "version": "0.1.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/tagembed.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "QXzchNQL6BJ70nuUZNHe"
+         },
+         "imports": {
+            "absolute": [
+               "https://framer.com/m/framer/default-utils.js@^0.45.0",
+               "https://framer.com/m/framer/integrations-styles.js@0.2.0"
+            ],
+            "bare": [
+               "react/jsx-runtime",
+               "framer",
+               "framer-motion"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "1mkt2plloPEOvoe16UUK",
+         "ownerId": "uHkIVKkG4rqkNaz8an0M",
+         "ownerType": "project",
+         "createdAt": "2023-01-26T10:43:13.987969Z",
+         "updatedAt": "2023-04-25T10:28:41.483195Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/NN9Etdj",
+         "saveId": "EUmeSZzQepu1cHilAvr7",
+         "userId": "37b5379e-8528-4d58-b64d-2992f7419ca4",
+         "savedAt": "2023-04-25T10:28:41.483195Z",
+         "files": {
+            "module": "LemonSqueezy.js",
+            "source": "LemonSqueezy.tsx",
+            "sourceMap": "LemonSqueezy.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 100,
+            "intrinsicWidth": 200
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "LemonSqueezy.tsx",
+         "title": "LemonSqueezy",
+         "baseURL": "https://framerusercontent.com/modules/1mkt2plloPEOvoe16UUK/EUmeSZzQepu1cHilAvr7/",
+         "importURL": "https://framer.com/m/LemonSqueezy-Qcmm.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "Lemon",
+            "version": "0.20.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/Lemon.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "EUmeSZzQepu1cHilAvr7"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "framer",
+               "react",
+               "framer-motion",
+               "react/jsx-runtime"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "y2X42d2VBQUxqU0AyTRL",
+         "ownerId": "7NlYZCRiKdchwcZc5Ecs",
+         "ownerType": "project",
+         "createdAt": "2021-09-16T09:12:18.44252Z",
+         "updatedAt": "2022-10-13T12:46:09.256678Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/ndQapHh",
+         "saveId": "wVgJ8Zvm2JKvI7eOaJ4K",
+         "userId": "0da79354-a0bd-4558-81dc-8d0f957a9378",
+         "savedAt": "2022-10-13T12:46:09.256678Z",
+         "files": {
+            "module": "Gumroad.js",
+            "source": "Gumroad.tsx",
+            "sourceMap": "Gumroad.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Gumroad.tsx",
+         "title": "Gumroad",
+         "baseURL": "https://framerusercontent.com/modules/y2X42d2VBQUxqU0AyTRL/wVgJ8Zvm2JKvI7eOaJ4K/",
+         "importURL": "https://framer.com/m/Gumroad-4TWf.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "gumroad",
+            "version": "0.1.1",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/gumroad.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "wVgJ8Zvm2JKvI7eOaJ4K"
+         },
+         "imports": {
+            "absolute": [
+               "https://framer.com/m/framer/default-utils.js@^0.45.0"
+            ],
+            "bare": [
+               "react/jsx-runtime",
+               "framer",
+               "framer-motion"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "pVk4QsoHxASnVtUBp6jr",
+         "ownerId": "ccRHKwUmitJhVmGBxTKc",
+         "ownerType": "project",
+         "createdAt": "2023-05-12T11:04:48.532348Z",
+         "updatedAt": "2025-05-13T09:43:50.340324Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/ZClWxS1",
+         "saveId": "HTBsNkEMAb7TUGaO3DBy",
+         "userId": "71062f5e-883f-438a-a3b0-c60d0b8b38b4",
+         "savedAt": "2025-03-28T09:45:12.987894Z",
+         "files": {
+            "module": "CodeBlock.js",
+            "source": "CodeBlock.tsx",
+            "sourceMap": "CodeBlock.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 200,
+            "intrinsicWidth": 500,
+            "localModuleImportMapEntries": false,
+            "treeAnnotations": true
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "CodeBlock.tsx",
+         "title": "CodeBlock",
+         "baseURL": "https://framerusercontent.com/modules/pVk4QsoHxASnVtUBp6jr/HTBsNkEMAb7TUGaO3DBy/",
+         "importURL": "https://framer.com/m/CodeBlock-L4VO.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "CodeBlock",
+            "version": "1.4.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/CodeBlock.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "HTBsNkEMAb7TUGaO3DBy"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "framer",
+               "framer-motion",
+               "react/jsx-runtime"
+            ],
+            "relative": [
+               "./lib/utils.ts",
+               "./modules/codesandbox_sandpack_react.js",
+               "./lib/types.ts",
+               "./lib/theming.ts",
+               "./lib/useLanguageAsync.tsx",
+               "./lib/browser.ts"
+            ]
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "o1PI5S8YtkA5bP5g4dFz",
+         "ownerId": "i0RbOs7pE8lGyow8pxuq",
+         "ownerType": "project",
+         "createdAt": "2022-05-17T08:00:06.113276Z",
+         "updatedAt": "2025-04-15T10:40:04.527505Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/HTpNsGk",
+         "saveId": "s801VqobGI0Gkh3K9b41",
+         "userId": "c42e785b-cbd9-41fe-8bfd-2e9c67b79789",
+         "savedAt": "2025-04-03T12:39:54.459114Z",
+         "files": {
+            "module": "Embed.js",
+            "source": "Embed.tsx",
+            "sourceMap": "Embed.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 400,
+            "intrinsicWidth": 600,
+            "localModuleImportMapEntries": false,
+            "treeAnnotations": true
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Embed.tsx",
+         "title": "Embed",
+         "baseURL": "https://framerusercontent.com/modules/o1PI5S8YtkA5bP5g4dFz/s801VqobGI0Gkh3K9b41/",
+         "importURL": "https://framer.com/m/Embed-wKgM.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "Embed",
+            "version": "2.3.1",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/Embed.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "s801VqobGI0Gkh3K9b41"
+         },
+         "imports": {
+            "absolute": [
+               "https://framer.com/m/framer/default-utils.js"
+            ],
+            "bare": [
+               "framer",
+               "react",
+               "react/jsx-runtime"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "Hj20QU19p80mpYsvesiZ",
+         "ownerId": "p7iPN2sOcwSgYFGr5b2W",
+         "ownerType": "project",
+         "createdAt": "2021-08-31T14:15:36.92498Z",
+         "updatedAt": "2023-08-29T14:08:49.174812Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/Mn73Uts",
+         "saveId": "RfHh9MIwqlgi04HKZ3Qo",
+         "userId": "37b5379e-8528-4d58-b64d-2992f7419ca4",
+         "savedAt": "2023-08-29T14:08:49.174812Z",
+         "files": {
+            "module": "Clipboard.js",
+            "source": "Clipboard.tsx",
+            "sourceMap": "Clipboard.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 50,
+            "intrinsicWidth": 90
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Clipboard.tsx",
+         "title": "Clipboard",
+         "baseURL": "https://framerusercontent.com/modules/Hj20QU19p80mpYsvesiZ/RfHh9MIwqlgi04HKZ3Qo/",
+         "importURL": "https://framer.com/m/Clipboard-LPow.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "clipboard",
+            "version": "1.2.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/clipboard.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "RfHh9MIwqlgi04HKZ3Qo"
+         },
+         "imports": {
+            "absolute": [
+               "https://framer.com/m/framer/default-utils.js@^0.45.0"
+            ],
+            "bare": [
+               "framer-motion",
+               "react/jsx-runtime",
+               "react",
+               "framer"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "kBkaj3LmBqcSU2IkUsBC",
+         "ownerId": "sAv0pEqtrb7nvANllUnT",
+         "ownerType": "project",
+         "createdAt": "2023-07-17T09:06:15.873581Z",
+         "updatedAt": "2024-04-18T08:20:46.671907Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/kRbxbFH",
+         "saveId": "kvFSr6fSU7VcYZyNyfaK",
+         "userId": "0da79354-a0bd-4558-81dc-8d0f957a9378",
+         "savedAt": "2023-08-01T15:56:12.521417Z",
+         "files": {
+            "module": "Download.js",
+            "source": "Download.tsx",
+            "sourceMap": "Download.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 100,
+            "intrinsicWidth": 200
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Download.tsx",
+         "title": "Download",
+         "baseURL": "https://framerusercontent.com/modules/kBkaj3LmBqcSU2IkUsBC/kvFSr6fSU7VcYZyNyfaK/",
+         "importURL": "https://framer.com/m/Download-jHf3.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "download",
+            "version": "1.0.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/download.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "kvFSr6fSU7VcYZyNyfaK"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "react/jsx-runtime",
+               "framer",
+               "framer-motion"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "7GzNx3UWTFiuG1fPp4RN",
+         "ownerId": "4DaZpi00ohVBtM7jQWO9",
+         "ownerType": "project",
+         "createdAt": "2021-11-15T11:31:19.019231Z",
+         "updatedAt": "2022-01-21T13:53:10.202058Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/vkL6emQ",
+         "saveId": "QyEEgPY53ESHBscFDhFT",
+         "userId": "0da79354-a0bd-4558-81dc-8d0f957a9378",
+         "savedAt": "2022-01-21T13:53:10.202058Z",
+         "files": {
+            "module": "OpenTable.js",
+            "source": "OpenTable.tsx",
+            "sourceMap": "OpenTable.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 301,
+            "intrinsicWidth": 224
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "OpenTable.tsx",
+         "title": "OpenTable",
+         "baseURL": "https://framerusercontent.com/modules/7GzNx3UWTFiuG1fPp4RN/QyEEgPY53ESHBscFDhFT/",
+         "importURL": "https://framer.com/m/OpenTable-rqdo.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "opentable",
+            "version": "0.1.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/opentable.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "QyEEgPY53ESHBscFDhFT"
+         },
+         "imports": {
+            "absolute": [
+               "https://framer.com/m/framer/default-utils.js@^0.45.0",
+               "https://framer.com/m/framer/integrations-styles.js@0.2.0"
+            ],
+            "bare": [
+               "react/jsx-runtime",
+               "framer",
+               "framer-motion"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "3VbLlIQuOMJh9PZyYR3D",
+         "ownerId": "gFsfluadUsErErxyKgN9",
+         "ownerType": "project",
+         "createdAt": "2021-09-27T11:08:50.128633Z",
+         "updatedAt": "2021-12-10T14:10:53.359949Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/qmrQaim",
+         "saveId": "xG8adK1glTAxJchw5bER",
+         "userId": "0febbb6b-1f72-424c-9466-293fe084e6a7",
+         "savedAt": "2021-12-10T14:10:53.359949Z",
+         "files": {
+            "module": "ProductHunt.js",
+            "source": "ProductHunt.tsx",
+            "sourceMap": "ProductHunt.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 54,
+            "intrinsicWidth": 250
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "ProductHunt.tsx",
+         "title": "ProductHunt",
+         "baseURL": "https://framerusercontent.com/modules/3VbLlIQuOMJh9PZyYR3D/xG8adK1glTAxJchw5bER/",
+         "importURL": "https://framer.com/m/ProductHunt-i5Ty.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "product-hunt",
+            "version": "0.1.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/product-hunt.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "xG8adK1glTAxJchw5bER"
+         },
+         "imports": {
+            "absolute": [
+               "https://framer.com/m/framer/default-utils.js@^0.45.0",
+               "https://framer.com/m/framer/integrations-styles.js@^0.2.0"
+            ],
+            "bare": [
+               "react/jsx-runtime",
+               "framer",
+               "react"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "nrfFErSfrJP9tb4xLKEk",
+         "ownerId": "hRraLntWlT66fLbg6oN8",
+         "ownerType": "project",
+         "createdAt": "2021-08-31T11:53:27.538048Z",
+         "updatedAt": "2021-09-30T08:43:44.015036Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/pLjkwKT",
+         "saveId": "CWjOa7uEm7TG5UQ0N9qt",
+         "userId": "0febbb6b-1f72-424c-9466-293fe084e6a7",
+         "savedAt": "2021-09-30T08:43:44.015036Z",
+         "files": {
+            "module": "TheFork.js",
+            "source": "TheFork.tsx",
+            "sourceMap": "TheFork.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "TheFork.tsx",
+         "title": "TheFork",
+         "baseURL": "https://framerusercontent.com/modules/nrfFErSfrJP9tb4xLKEk/CWjOa7uEm7TG5UQ0N9qt/",
+         "importURL": "https://framer.com/m/TheFork-v6b2.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "the-fork",
+            "version": "0.1.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/the-fork.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "CWjOa7uEm7TG5UQ0N9qt"
+         },
+         "imports": {
+            "absolute": [
+               "https://framer.com/m/framer/default-utils.js@^0.45.0"
+            ],
+            "bare": [
+               "react/jsx-runtime",
+               "framer",
+               "framer-motion"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "wRCfuvJUFRQ0wYlJVLju",
+         "ownerId": "wzkMVjVni1dir2vAFFrx",
+         "ownerType": "project",
+         "createdAt": "2021-09-15T15:19:06.167394Z",
+         "updatedAt": "2023-08-10T12:51:15.083896Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/pCZX63g",
+         "saveId": "f2PVvQB7n1JGH6OX72Kx",
+         "userId": "e7937938-3ed7-4245-a36a-73d04e1216ed",
+         "savedAt": "2023-08-10T12:51:15.083896Z",
+         "files": {
+            "module": "Eventbrite.js",
+            "source": "Eventbrite.tsx",
+            "sourceMap": "Eventbrite.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 50,
+            "intrinsicWidth": 90
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Eventbrite.tsx",
+         "title": "Eventbrite",
+         "baseURL": "https://framerusercontent.com/modules/wRCfuvJUFRQ0wYlJVLju/f2PVvQB7n1JGH6OX72Kx/",
+         "importURL": "https://framer.com/m/Eventbrite-djpq.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "eventbrite",
+            "version": "0.5.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/eventbrite.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "f2PVvQB7n1JGH6OX72Kx"
+         },
+         "imports": {
+            "absolute": [
+               "https://framer.com/m/framer/default-utils.js@^0.45.0"
+            ],
+            "bare": [
+               "react/jsx-runtime",
+               "framer-motion",
+               "react",
+               "framer"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "e3x4jPb1EG4euVPWc4mR",
+         "ownerId": "i0RbOs7pE8lGyow8pxuq",
+         "ownerType": "project",
+         "createdAt": "2021-01-18T16:45:03.499846Z",
+         "updatedAt": "2025-04-28T12:30:45.147544Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/ToZ2782",
+         "saveId": "DcqkjAY8EPVJ6ETf0Jqb",
+         "userId": "0da79354-a0bd-4558-81dc-8d0f957a9378",
+         "savedAt": "2021-09-23T13:24:00.307044Z",
+         "files": {
+            "module": "Notes.js",
+            "source": "Notes.tsx",
+            "sourceMap": "Notes.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 180,
+            "intrinsicWidth": 180
+         },
+         "exports": [
+            "Notes",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Notes.tsx",
+         "title": "Notes",
+         "baseURL": "https://framerusercontent.com/modules/e3x4jPb1EG4euVPWc4mR/DcqkjAY8EPVJ6ETf0Jqb/",
+         "importURL": "https://framer.com/m/Notes-FCTy.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "Notes",
+            "version": "0.14.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/Notes.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "DcqkjAY8EPVJ6ETf0Jqb"
+         },
+         "imports": {
+            "absolute": [
+               "https://framer.com/m/framer/default-utils.js@^0.45.0"
+            ],
+            "bare": [
+               "react/jsx-runtime",
+               "react",
+               "framer"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "IQXqjAGXltPKLdfjcdtf",
+         "ownerId": "v7NsM8TTb0om6tidFmMS",
+         "ownerType": "project",
+         "createdAt": "2021-08-03T13:10:29.163807Z",
+         "updatedAt": "2022-12-10T12:48:22.2999Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/rMc84Ry",
+         "saveId": "AdYVRfUvx2HLE5qL3Xfw",
+         "userId": "37b5379e-8528-4d58-b64d-2992f7419ca4",
+         "savedAt": "2022-12-10T12:48:22.2999Z",
+         "files": {
+            "module": "Logo.js",
+            "source": "Logo.tsx",
+            "sourceMap": "Logo.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 64,
+            "intrinsicWidth": 64
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Logo.tsx",
+         "title": "Logo",
+         "baseURL": "https://framerusercontent.com/modules/IQXqjAGXltPKLdfjcdtf/AdYVRfUvx2HLE5qL3Xfw/",
+         "importURL": "https://framer.com/m/Logo-rum7.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "logo",
+            "version": "0.2.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/logo.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "AdYVRfUvx2HLE5qL3Xfw"
+         },
+         "imports": {
+            "absolute": [
+               "https://framer.com/m/framer/icon-nullstate.js@0.7.0"
+            ],
+            "bare": [
+               "react/jsx-runtime",
+               "react",
+               "framer"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "Igd9rio3gdt4sM2RsHw8",
+         "ownerId": "tZ12u5TI8GRjml8kauR2",
+         "ownerType": "project",
+         "createdAt": "2024-01-11T08:54:31.876896Z",
+         "updatedAt": "2024-04-08T09:22:16.974164Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/R3rqY_Y",
+         "saveId": "7cqXOK5TpzFJABxEVIWF",
+         "userId": "ddd86e61-3d7c-4f0e-8c16-b02dc609d013",
+         "savedAt": "2024-04-08T09:22:16.974164Z",
+         "files": {
+            "module": "Contra.js",
+            "source": "Contra.tsx",
+            "sourceMap": "Contra.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicWidth": 400,
+            "localModuleImportMapEntries": false
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Contra.tsx",
+         "title": "Contra",
+         "baseURL": "https://framerusercontent.com/modules/Igd9rio3gdt4sM2RsHw8/7cqXOK5TpzFJABxEVIWF/",
+         "importURL": "https://framer.com/m/Contra-9nOb.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "contra",
+            "version": "0.2.2",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/contra.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "7cqXOK5TpzFJABxEVIWF"
+         },
+         "imports": {
+            "absolute": [
+               "https://framer.com/m/framer/integrations-styles.js@^0.2.0"
+            ],
+            "bare": [
+               "react",
+               "react/jsx-runtime",
+               "framer"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "dZ9c6z10n71dmz3JQVi4",
+         "ownerId": "53whgIeS5WtYbD3EJrgo",
+         "ownerType": "project",
+         "createdAt": "2023-11-16T10:59:17.874757Z",
+         "updatedAt": "2025-06-03T10:43:59.949374Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/FHENS3n",
+         "saveId": "0dSuyhnHD9HrUa3w2XFr",
+         "userId": "37b5379e-8528-4d58-b64d-2992f7419ca4",
+         "savedAt": "2024-01-17T16:19:42.364469Z",
+         "files": {
+            "module": "Arc.js",
+            "source": "Arc.tsx",
+            "sourceMap": "Arc.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 150,
+            "intrinsicWidth": 150,
+            "localModuleImportMapEntries": false
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Arc.tsx",
+         "title": "Arc",
+         "baseURL": "https://framerusercontent.com/modules/dZ9c6z10n71dmz3JQVi4/0dSuyhnHD9HrUa3w2XFr/",
+         "importURL": "https://framer.com/m/Arc-fWGx.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "ArcInsert",
+            "version": "0.4.1",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/ArcInsert.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "9V4bd6GeC5hErLrBqMW9"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "react/jsx-runtime",
+               "@emotion/hash",
+               "framer"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "kbkKGd5IDiOLgcEisfwN",
+         "ownerId": "53whgIeS5WtYbD3EJrgo",
+         "ownerType": "project",
+         "createdAt": "2023-11-16T11:16:15.370835Z",
+         "updatedAt": "2024-01-17T15:14:25.369586Z",
+         "type": "canvasComponent",
+         "deletedAt": null,
+         "description": null,
+         "localId": "canvasComponent/Xt9Qy3yip",
+         "saveId": "HpUecXt8ZaUb0qOgFf6E",
+         "userId": "0298dacb-da0d-4b32-b28d-24580a7683b6",
+         "savedAt": "2024-01-16T14:58:03.65051Z",
+         "files": {
+            "module": "Xt9Qy3yip.js",
+            "nodeTree": "tree.json",
+            "source": "Xt9Qy3yip.tsx",
+            "sourceMap": "Xt9Qy3yip.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 1324,
+            "intrinsicWidth": 600,
+            "localModuleImportMapEntries": false,
+            "packageDependencies": []
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Xt9Qy3yip",
+         "title": "Scribbles",
+         "baseURL": "https://framerusercontent.com/modules/kbkKGd5IDiOLgcEisfwN/HpUecXt8ZaUb0qOgFf6E/",
+         "importURL": "https://framer.com/m/Scribbles-Y9zS.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "StickersInsert",
+            "version": "0.1.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/StickersInsert.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "HpUecXt8ZaUb0qOgFf6E"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "framer-motion",
+               "react",
+               "framer",
+               "react/jsx-runtime"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "YA3iK3Afo27kYzYjpTSi",
+         "ownerId": "53whgIeS5WtYbD3EJrgo",
+         "ownerType": "project",
+         "createdAt": "2024-01-08T16:35:16.314521Z",
+         "updatedAt": "2024-10-24T16:18:57.385565Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/Mf604me",
+         "saveId": "LbfyNKjmoEsUNmmvdFOc",
+         "userId": "7911f1fa-d330-4f5e-9a99-2d85eda1267f",
+         "savedAt": "2024-10-24T16:18:57.385565Z",
+         "files": {
+            "module": "Countdown.js",
+            "source": "Countdown.tsx",
+            "sourceMap": "Countdown.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 200,
+            "intrinsicWidth": 200,
+            "localModuleImportMapEntries": false
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Countdown.tsx",
+         "title": "Countdown",
+         "baseURL": "https://framerusercontent.com/modules/YA3iK3Afo27kYzYjpTSi/LbfyNKjmoEsUNmmvdFOc/",
+         "importURL": "https://framer.com/m/Countdown-m9vU.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "CountdownInsert",
+            "version": "0.6.3",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/CountdownInsert.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "LbfyNKjmoEsUNmmvdFOc"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "framer",
+               "react/jsx-runtime",
+               "react"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "HYcHVPAbe8jLEeU7c4mp",
+         "ownerId": "53whgIeS5WtYbD3EJrgo",
+         "ownerType": "project",
+         "createdAt": "2023-11-16T11:08:41.361612Z",
+         "updatedAt": "2024-10-24T15:30:45.961806Z",
+         "type": "codeFile",
+         "deletedAt": null,
+         "description": null,
+         "localId": "codeFile/cGyERpz",
+         "saveId": "QiycTxX7vdblEOi3o00G",
+         "userId": "7911f1fa-d330-4f5e-9a99-2d85eda1267f",
+         "savedAt": "2024-10-24T15:30:45.961806Z",
+         "files": {
+            "module": "Time.js",
+            "source": "Time.tsx",
+            "sourceMap": "Time.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 20,
+            "intrinsicWidth": 140,
+            "localModuleImportMapEntries": false
+         },
+         "exports": [
+            "Time",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "Time.tsx",
+         "title": "Time",
+         "baseURL": "https://framerusercontent.com/modules/HYcHVPAbe8jLEeU7c4mp/QiycTxX7vdblEOi3o00G/",
+         "importURL": "https://framer.com/m/Time-QRdu.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "TimeInsert",
+            "version": "0.6.1",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/TimeInsert.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "QiycTxX7vdblEOi3o00G"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "framer",
+               "react/jsx-runtime",
+               "react"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "YlKU53CdDss9o1Y3l19z",
+         "ownerId": "Hrj4eN0rht4EZ3xtHwj4",
+         "ownerType": "project",
+         "createdAt": "2024-04-29T12:49:40.927378Z",
+         "updatedAt": "2024-06-12T06:50:51.324624Z",
+         "type": "canvasComponent",
+         "deletedAt": null,
+         "description": null,
+         "localId": "canvasComponent/NLuCNm8M5",
+         "saveId": "0whb5n5y2kIiM1vdG8DN",
+         "userId": "37b5379e-8528-4d58-b64d-2992f7419ca4",
+         "savedAt": "2024-06-12T06:45:55.737512Z",
+         "files": {
+            "module": "NLuCNm8M5.js",
+            "nodeTree": "tree.json",
+            "source": "NLuCNm8M5.tsx",
+            "sourceMap": "NLuCNm8M5.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 40,
+            "intrinsicWidth": 240,
+            "localModuleImportMapEntries": false,
+            "packageDependencies": []
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "NLuCNm8M5",
+         "title": "Button",
+         "baseURL": "https://framerusercontent.com/modules/YlKU53CdDss9o1Y3l19z/0whb5n5y2kIiM1vdG8DN/",
+         "importURL": "https://framer.com/m/Button-4oPd.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "Submit",
+            "version": "0.6.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/Submit.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "0whb5n5y2kIiM1vdG8DN"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "react/jsx-runtime",
+               "framer",
+               "framer-motion",
+               "react"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "omo5LdjL4LRSZXvwvWOk",
+         "ownerId": "WzXSTqHmsNRKtpvJH2O3",
+         "ownerType": "project",
+         "createdAt": "2024-05-23T10:38:08.971288Z",
+         "updatedAt": "2024-06-03T12:54:03.178112Z",
+         "type": "canvasComponent",
+         "deletedAt": null,
+         "description": null,
+         "localId": "canvasComponent/O_XoZ3FcZ",
+         "saveId": "u3WxIJnBoahCGbEeALvk",
+         "userId": "37b5379e-8528-4d58-b64d-2992f7419ca4",
+         "savedAt": "2024-06-03T12:54:03.178112Z",
+         "files": {
+            "module": "O_XoZ3FcZ.js",
+            "nodeTree": "tree.json",
+            "source": "O_XoZ3FcZ.tsx",
+            "sourceMap": "O_XoZ3FcZ.map"
+         },
+         "metadata": {
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 40,
+            "intrinsicWidth": 40,
+            "localModuleImportMapEntries": false,
+            "packageDependencies": []
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "O_XoZ3FcZ",
+         "title": "Spinner",
+         "baseURL": "https://framerusercontent.com/modules/omo5LdjL4LRSZXvwvWOk/u3WxIJnBoahCGbEeALvk/",
+         "importURL": "https://framer.com/m/Spinner-DqNr.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "InfiniteScroll",
+            "version": "0.11.0",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/InfiniteScroll.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "u3WxIJnBoahCGbEeALvk"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "framer-motion",
+               "react",
+               "react/jsx-runtime",
+               "framer"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      },
+      {
+         "id": "DeOFaQSEkzad7IWREtaG",
+         "ownerId": "Xy5VItjgFTzPivHENPVE",
+         "ownerType": "project",
+         "createdAt": "2024-05-23T10:42:38.83742Z",
+         "updatedAt": "2025-05-02T16:57:24.547244Z",
+         "type": "canvasComponent",
+         "deletedAt": null,
+         "description": null,
+         "localId": "canvasComponent/g3OPvNRkB",
+         "saveId": "RQpaQ77zS3y9109xlKHM",
+         "userId": "7911f1fa-d330-4f5e-9a99-2d85eda1267f",
+         "savedAt": "2025-05-02T16:57:24.547244Z",
+         "files": {
+            "module": "g3OPvNRkB.js",
+            "nodeTree": "tree.json",
+            "source": "g3OPvNRkB.tsx",
+            "sourceMap": "g3OPvNRkB.map"
+         },
+         "metadata": {
+            "compatibleCmsVersion": 1,
+            "compilerContractVersion": 1,
+            "intrinsicHeight": 40,
+            "intrinsicWidth": 100,
+            "localModuleImportMapEntries": false,
+            "packageDependencies": [],
+            "sourceRevision": 659425110,
+            "treeAnnotations": true
+         },
+         "exports": [
+            "default",
+            "__FramerMetadata__"
+         ],
+         "reExportedModules": [],
+         "name": "g3OPvNRkB",
+         "title": "Load More",
+         "baseURL": "https://framerusercontent.com/modules/DeOFaQSEkzad7IWREtaG/RQpaQ77zS3y9109xlKHM/",
+         "importURL": "https://framer.com/m/Load-More-O4Av.js",
+         "lastPublish": {
+            "namespaceId": "b1dc0e2c-9212-4d15-aaf0-73b747e96996",
+            "name": "LoadMore",
+            "version": "0.8.1",
+            "importURL": "https://framer.com/m/b1dc0e2c-9212-4d15-aaf0-73b747e96996/LoadMore.js"
+         },
+         "status": {
+            "group": {
+               "type": "team",
+               "id": "283cfef3-5a91-4b19-bf7d-8840d3c7bae5",
+               "name": "Framer",
+               "imageURL": null
+            },
+            "updateSaveId": "RQpaQ77zS3y9109xlKHM"
+         },
+         "imports": {
+            "absolute": [],
+            "bare": [
+               "react",
+               "react/jsx-runtime",
+               "framer-motion",
+               "framer"
+            ],
+            "relative": []
+         },
+         "submodules": [],
+         "binaryAssets": []
+      }
+   ]
+}

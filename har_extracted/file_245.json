@@ -1,0 +1,15 @@
+{
+   "data": [
+      {
+         "id": "jVXruTA1LjRTVtswr2S3",
+         "ownerTeamId": "f50d3706-f584-445f-a774-a3764704cc89",
+         "title": null,
+         "createdAt": "2025-06-16T12:10:42.080818Z",
+         "updatedAt": "2025-06-16T12:10:42.080818Z",
+         "deletedAt": null,
+         "permissions": {
+            "canEdit": true
+         }
+      }
+   ]
+}

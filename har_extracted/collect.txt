@@ -1,0 +1,6 @@
+event: message
+data: {"send_pixel":["https://www.google.co.in/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&dma=0&npa=0&gcd=13l3l3l3l1l1&tid=G-QZ2MPXED80&cid=rIARvh%2B5Xtq%2FuUE2OoozK72tiDG%2FcxmSLQGyG5OsBRM%3D.1749468594&gtm=45h91e56g0v9101309483z99203990758za204zb9203949713&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104617979~104617981~104718208~104736445~104736447~104750994&_is_sw=0&_tu=BA&aip=1&z=1812225509"],"options":{}}
+
+event: message
+data: {"response":{"status_code":200,"body":""}}
+

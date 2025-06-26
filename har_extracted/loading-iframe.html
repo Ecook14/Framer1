@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Video</title>
+    <style>
+        html,
+        body {
+            margin: 0;
+            padding: 0;
+            width: 36px;
+            height: 36px;
+            overflow: hidden;
+            background-color: transparent;
+        }
+
+        /* hide any unknown elements to prevent browser extensions adding extra visible stuff */
+        body * {
+            display: none !important;
+        }
+
+        main {
+            display: block !important;
+            width: 36px;
+            height: 36px;
+        }
+
+        video {
+            display: block !important;
+            /* fixes safari black borders around video */
+            clip-path: fill-box;
+        }
+    </style>
+</head>
+<body>
+<main>
+    <video id="logo" autoplay loop muted width="36px" height="36px"></video>
+    <script>
+        const logo = document.getElementById("logo")
+        const source = document.createElement("source")
+        logo.appendChild(source)
+
+        source.type = "video/mp4"
+        if (location.href.includes("theme=light")) {
+            source.src = "https://app.framerstatic.com/rotating-logo-light-MBOJKUQ3.mp4"
+        } else {
+            source.src = "https://app.framerstatic.com/rotating-logo-dark-5VKVNLE3.mp4"
+        }
+    </script>
+</main>
+</body>
+</html>
